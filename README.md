@@ -5,11 +5,12 @@
 
 # Hello, world! 👋
 <br>
+<img src="images/header.png" alt="Girl in a jacket">
+<br>
 <br>
 "Oh JavaScript, why so much brackets?!"
 
 "I try to leave HTML & CSS, but they keep pullin' me back in!"
-<br>
 <br>
 <br>
 <br>
@@ -25,10 +26,8 @@
 
 [Instagram]: https://www.linkedin.com/in/ilya0x
 [Badge Instagram]: https://img.shields.io/twitter/follow/ElectroArchiver?color=1378b7&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&labelColor=1DA1F2
-
 <br>
 <br>
-
-<kbd> <br> **@Me if you need help with your documentation.** <br> </kbd>
+<kbd> <br> **@Me if you need help with your documentation.** <br> </kbd>
 
 </div>
