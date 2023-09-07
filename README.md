@@ -3,7 +3,7 @@
 
 # Hello, world! 👋
 <br>
-<img src="images/header.png" alt="Girl in a jacket" width=400px>
+<img src="images/header.jpg" alt="Girl in a jacket" width=600px>
 <br>
 <br>
 "Oh JavaScript, why so much brackets?!"
