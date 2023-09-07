@@ -4,13 +4,6 @@
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 <br>
-<b><i>"Oh JavaScript, why so much brackets?!"</b></i>
-<br>
-<br>
-
-<b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
-
-<br>
 
 [![Badge Twitter]][Twitter]
 [![Badge LinkedIn]][LinkedIn]
@@ -23,6 +16,14 @@
 [Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
 [Instagram]: https://www.instagram.com/ilya0x/
 
+<br>
+<b><i>"Oh JavaScript, why so much brackets?!"</b></i>
+<br>
+<br>
+
+<b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
+
+<br>
 </div>
 <br>
 
@@ -30,6 +31,7 @@ I'm a seasoned content strategist with a background in design and photography fr
 
 Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning stuff. I'm hoping to find a gig that lets me blend my event and content skills with my new coding chops.
 <div align = center>
-
+<br>
+<br>
 <kbd> <br> ⚠ Message me if you need help with your documentation. <br> </kbd>
 </div>
