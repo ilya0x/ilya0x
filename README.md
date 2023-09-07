@@ -25,7 +25,7 @@
 [Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
 [Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
-[Instagram]: https://www.linkedin.com/in/ilya0x
+[Instagram]: https://www.instagram.com/ilya0x/
 
 </div>
 <br>
