@@ -2,16 +2,19 @@
 <div align = center>
 
 # Hello, world! 👋
+<img src="images/header.jpg" alt="Girl in a jacket">
 <br>
-<img src="images/header.jpg" alt="Girl in a jacket" width=600px>
 <br>
 <br>
 "Oh JavaScript, why so much brackets?!"
+<br>
+<br>
 
 "I try to leave HTML & CSS, but they keep pullin' me back in!"
 <br>
 <br>
 <br>
+
 [![Badge Twitter]][Twitter]
 [![Badge LinkedIn]][LinkedIn]
 [![Badge Instagram]][Instagram]
