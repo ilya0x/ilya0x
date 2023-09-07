@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<kbd> <br> <br> ***<span style="font-size: 12pt;">@Me if you need help with your documentation.</span>*** <br> <br> </kbd>
+<kbd> <br> <br> ***<span style="font-size: 14pt;">@Me if you need help with your documentation.</span>*** <br> <br> </kbd>
 <br>
 <br>
 
@@ -28,5 +28,4 @@
 
 [Instagram]: https://www.linkedin.com/in/ilya0x
 [Badge Instagram]: https://img.shields.io/twitter/follow/ElectroArchiver?color=1378b7&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&labelColor=1DA1F2
-<br>
 </div>
