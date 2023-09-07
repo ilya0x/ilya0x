@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
+><b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
 
 <br>
 </div>
