@@ -3,18 +3,15 @@
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 <br>
-<br>
 "Oh JavaScript, why so much brackets?!"
 <br>
 <br>
 
 "I keep trying to leave HTML & CSS, but they keep pullin' me back in!"
 <br>
-<br>
 
 <kbd> <br> ⚠ Message me if you need help with your documentation. <br> </kbd>
 
-<br>
 <br>
 
 [![Badge Twitter]][Twitter]
