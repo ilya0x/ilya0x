@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<kbd> <br> <br> ***<span style="font-size: 14pt;">@Me if you need help with your documentation.</span>*** <br> <br> </kbd>
+<kbd> <br> <br> ***<span style="font-size: 14px;">@Me if you need help with your documentation.</span>*** <br> <br> </kbd>
 <br>
 <br>
 
