@@ -1,10 +1,9 @@
 # Hello, world! 👋
 
-<div align = center>
+
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 <br>
-</div>
 
 > <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
 
