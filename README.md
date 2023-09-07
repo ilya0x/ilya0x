@@ -17,15 +17,11 @@
 [Instagram]: https://www.instagram.com/ilya0x/
 
 <br>
-<b><i>"Oh JavaScript, why so much brackets?!"</b></i>
-<br>
-<br>
 
 <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
 
 <br>
 </div>
-<br>
 
 I'm a seasoned content strategist with a background in design and photography from [UC Davis](https://www.ucdavis.edu/) and a dozen [NYU](https://www.nyu.edu/) courses under my belt. I'm all about diving into data, trends, and what makes people tick.  I whip up content strategies that cover everything from words, pictures, audio, video, to even the vibe of a physical space.
 
