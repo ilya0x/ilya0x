@@ -4,11 +4,11 @@
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 <br>
+</div>
 
 > <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
 
 <br>
-</div>
 
 I'm a seasoned content strategist with a background in event production and media coordination, a Bachelor of Science in Design from [UC Davis](https://www.ucdavis.edu/) and a dozen [NYU](https://www.nyu.edu/) courses under my belt. I'm all about diving into data, trends, and what makes people tick.  I create content strategies that cover everything from words, pictures, audio, video, to the vibe of a physical space.
 
