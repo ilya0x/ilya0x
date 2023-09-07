@@ -12,7 +12,8 @@
 <br>
 <br>
 
-<kbd> <br> <br> @Me if you need help with your documentation. <br> <br> </kbd>
+<kbd> <br> @Me if you need help with your documentation. <br> </kbd>
+
 <br>
 <br>
 
