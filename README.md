@@ -15,7 +15,7 @@ I'm a seasoned content strategist with a background in event production and medi
 Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning stuff. I'm hoping to find a gig that lets me blend my event and content skills with my new coding chops.
 <div align = center>
 <br>
-<kbd> <br> ⚠ Message me if you need help with your documentation. <br> </kbd>
+<kbd> <br> ⚠ Message me if you need help with your documentation design & layout. <br> </kbd>
 <br>
 <br>
 <br>
