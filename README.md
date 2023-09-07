@@ -1,5 +1,7 @@
 
-<div align = center>
+<div align = center style="
+background-image: url('images/background.jpg');
+background-size: cover;">
 
 <br>
 
