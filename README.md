@@ -34,4 +34,8 @@ Lately, I've been geeking out on [Python](https://www.python.org/) and machine l
 <br>
 <br>
 <kbd> <br> ⚠ Message me if you need help with your documentation. <br> </kbd>
+<br>
+<br>
+<br>
+<img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
