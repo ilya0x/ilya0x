@@ -1,11 +1,9 @@
 
 <div align = center>
 
-<br>
-
 # Hello, world! 👋
 <br>
-<img src="images/header.png" alt="Girl in a jacket">
+<img src="images/header.png" alt="Girl in a jacket" width=400px>
 <br>
 <br>
 "Oh JavaScript, why so much brackets?!"
