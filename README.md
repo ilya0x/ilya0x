@@ -8,7 +8,7 @@
 <br>
 <br>
 
-"I try to leave HTML & CSS, but they keep pullin' me back in!"
+"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"
 <br>
 <br>
 
