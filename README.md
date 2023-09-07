@@ -4,7 +4,7 @@
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 
-> <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i> I've worked with both since late 90s...
+> <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</i> I've worked in both since late 90s...</b>
 
 <br>
 
