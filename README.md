@@ -3,11 +3,11 @@
 <img src="images/header.jpg" alt="Girl in a jacket">
 <br>
 <br>
-"Oh JavaScript, why so much brackets?!"
+<b><i>"Oh JavaScript, why so much brackets?!"
 <br>
 <br>
 
-"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"
+"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</b></i>
 <br>
 <br>
 
