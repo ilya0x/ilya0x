@@ -16,14 +16,17 @@
 
 <br>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ilya0x)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5)
-![Instagram](https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf)
+[![Badge Twitter]][Twitter]
+[![Badge LinkedIn]][LinkedIn]
+[![Badge Instagram]][Instagram]
 
-
+[Badge Twitter]: https://img.shields.io/twitter/follow/ilya0x
+[Twitter]: https://twitter.com/ilya0x
+[Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
-
+[Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
 [Instagram]: https://www.linkedin.com/in/ilya0x
+
 </div>
 <br>
 
