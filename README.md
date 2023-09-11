@@ -13,6 +13,14 @@ I'm a seasoned content strategist with a background in event production and medi
 Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning stuff. The [MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) course lectures on YouTube have been most invaluable in learning about Deep Learning. I'm also excited about learning [Mojo🔥](https://docs.modular.com/mojo/) from ground up as I've been following its development since it was made accessible in May 2023.
 
 I'm hoping to find a gig that lets me blend my event and content skills with my new coding chops.
+<br>
+<br>
+
+#### Regularly Updated Repositories:
+  - [My Favorite Visual Studio Code Extensions](https://github.com/ilya0x/My-Favorite-Visual-Studio-Code-Extensions)
+  - [Templates and Snippets](https://github.com/ilya0x/Templates-and-Snippets) - Templates and snippets for Python, Mojo, HTML, CSS, SASS, and Markdown.
+  - [All My Notes]() (coming soon...)
+<br>
 
 <div align = center>
 <br>
