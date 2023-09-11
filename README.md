@@ -10,7 +10,7 @@
 
 I'm a seasoned content strategist with a background in event production and media coordination, a Bachelor of Science in Design from [UC Davis](https://www.ucdavis.edu/) and a dozen [NYU](https://www.nyu.edu/) courses under my belt. I'm all about diving into data, trends, and what makes people tick.  I create content strategies that cover everything from words, pictures, audio, video, to the vibe of a physical space.
 
-Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning stuff. I'm hoping to find a gig that lets me blend my event and content skills with my new coding chops.
+Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning stuff. I'm excited about learning [Mojo🔥](https://docs.modular.com/mojo/) and have been following its developments since it was made accessible May 2023. I'm hoping to find a gig that lets me blend my event and content skills with my new coding chops.
 <div align = center>
 <br>
 <kbd> <br> ⚠ Message me if you need help with your documentation design & layout. <br> </kbd>
