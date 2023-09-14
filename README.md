@@ -32,6 +32,12 @@ about learning and exploring new big ideas and diving into data, trends, and
 what makes people tick.  I create content strategies that cover everything from
 text, pictures, audio, video, to the vibe of a physical or virtual space.
 
+I've been in Web3 space since 2018. I have worked with over a dozen NFT and
+cryptocurrency projects in various capacities, including Creative Advisor for a
+NFT trading platform and Director of Communications for a blueship NFT project.
+I am very optimistic and excited about Web3 space and expect great financial
+infrastructure and tools to come out of it.
+
 Lately, I've been geeking out on [Python](https://www.python.org/ "Python
 programming language") and machine learning. The [MIT Introduction to Deep
 Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
