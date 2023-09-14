@@ -195,6 +195,10 @@ new coding chops. <br>
 
 ---
 
+### 📓 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <details>
   
 <summary><h4>GitHub Stats</h4></summary>
@@ -214,6 +218,9 @@ new coding chops. <br>
 
  <!-- Reference Links: -->
 <!-- Consolidate all links below:
+[twitter]
+[linkedin]
+[instagram]
 [ucd]:
 [nyu]:
 [python]:
