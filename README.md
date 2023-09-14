@@ -16,7 +16,6 @@
 [Instagram]: https://www.instagram.com/ilya0x/
 </div>
 <br>
-<br>
 
 > <b><i>"I try to leave HTML & CSS, but they keep pullin' me back in!"</i>
 >> My first job in high school, which was in the 90s, was web design using HTML,
@@ -53,16 +52,6 @@ up as I've been following its development since it was made accessible in May
 I'm hoping to find a gig that lets me blend my event and content skills with my
 new coding chops. <br>
 <br>
-
-<div align = center>
-<br>
-
-<kbd><br>
-⚠ Message me if you need help with your documentation design & layout.
-<br><br></kbd>
-
-</div>
-
 
 ---
 
@@ -189,11 +178,34 @@ new coding chops. <br>
 - <img src="images/yaml-15.png" alt="YAML"> YAML
 
 </details>
-<br>
-<br>
+
+---
+
+<details>
+  
+<summary><h4>GitHub Stats</h4></summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya0x)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
 
 <div align = center>
 <br>
 
+<kbd><br>
+⚠ Message me if you need help with your documentation design & layout.
+<br><br></kbd>
+
+
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
+
+ <!-- Reference Links: -->
+[ucd]:
+[nyu]:
+[python]:
+[mit-dl-coudse]:
+[pytorch-coudse]:
+[mojo]:
