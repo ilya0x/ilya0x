@@ -64,6 +64,7 @@ I'm hoping to find a gig that lets me blend my event and content skills with my
 new coding chops. <br>
 
 </details>
+<br>
 
 ---
 
@@ -79,7 +80,7 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h3></summary>
+<summary><h2>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h2></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -191,7 +192,6 @@ new coding chops. <br>
 - <img src="images/mojo-15.png" alt="Mojo"> Mojo
 
 </details>
-<br>
 
 ---
 
