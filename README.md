@@ -19,7 +19,7 @@
 <br>
 <br>
 
-> <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</i> I've worked in both since late 90s...</b>
+> <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</i></b>
 
 <br>
 
