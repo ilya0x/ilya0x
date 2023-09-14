@@ -23,7 +23,7 @@
 
 <br>
 
-I'm a seasoned content strategist with a background in event production and media coordination, a Bachelor degree in Design from [UC Davis](https://www.ucdavis.edu/) and a dozen [NYU](https://www.nyu.edu/) courses under my belt. I'm all about learning and exploring new big ideas and diving into data, trends, and what makes people tick.  I create content strategies that cover everything from text, pictures, audio, video, to the vibe of a physical or virtual space.
+I'm a seasoned content strategist with a background in event production and media coordination, a Bachelor degree in Design from <abbr title="University of California at Davis">[UC Davis](https://www.ucdavis.edu/)</abbr> and a dozen <abbr title="New York University">[NYU](https://www.nyu.edu/)</abbr> courses under my belt. I'm all about learning and exploring new big ideas and diving into data, trends, and what makes people tick.  I create content strategies that cover everything from text, pictures, audio, video, to the vibe of a physical or virtual space.
 
 Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning. The [MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) course lectures and the [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=i7bEsZQGZZC7rO3B) on YouTube have been most invaluable for both, learning the theory and terminolagy behind Machine Learning and Deep Learning, as well as learning the fundamentals of PyTorch (it's a 25-hour course!). I'm also excited about learning [Mojo🔥](https://docs.modular.com/mojo/) from ground up as I've been following its development since it was made accessible in May 2023.
 
