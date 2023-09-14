@@ -67,8 +67,9 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Templates <img src="images/work-in-progress-icon-70.png" alt="HTML"></h3></summary>
+<summary><h3>Templates</h3></summary>
 
+<img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
 <table border="1">
         <tr>
@@ -167,8 +168,10 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Snippets <img src="images/work-in-progress-icon-70.png" alt="HTML"></h3></summary>
+<summary><h3>Snippets</h3></summary>
 
+<img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
+<br>
 - <img src="images/html5-15.png" alt="HTML"> HTML
 - <img src="images/css3-15.png" alt="CSS"> CSS
 - <img src="images/sass5-15.png" alt="Sass"> Sass
@@ -178,6 +181,7 @@ new coding chops. <br>
 - <img src="images/yaml-15.png" alt="YAML"> YAML
 
 </details>
+<br>
 
 ---
 
