@@ -80,7 +80,7 @@ new coding chops. <br>
 
 <details>
   
-<summary><h2>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h2></summary>
+<summary><h3>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
