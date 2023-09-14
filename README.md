@@ -104,8 +104,10 @@ new coding chops. <br>
         </tr>
         <tr>
             <td rowspan="2"><img src="images/sass5-15.png" alt="Sass"> Sass</td>
-            <td>Using <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr> extension</td>
-            <td>Description of Using Live Sass Compiler <abbr title="Visual Studio Code">VSC</abbr> extension template</td>
+            <td>Using <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
+            Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr> extension</td>
+            <td>Description of Using Live Sass Compiler
+            <abbr title="Visual Studio Code">VSC</abbr> extension template</td>
         </tr>
         <tr>
             <td>Using Gulp</td>
