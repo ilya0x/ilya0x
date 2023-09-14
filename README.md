@@ -197,6 +197,7 @@ new coding chops. <br>
 
 ### 📓 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
