@@ -67,7 +67,7 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Templates</h3></summary>
+<summary><h3>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -168,17 +168,15 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Snippets</h3></summary>
+<summary><h3>Snippets for HTML, Sass, Python, and Mojo</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
+
 - <img src="images/html5-15.png" alt="HTML"> HTML
-- <img src="images/css3-15.png" alt="CSS"> CSS
 - <img src="images/sass5-15.png" alt="Sass"> Sass
 - <img src="images/python-15.png" alt="Python"> Python
 - <img src="images/mojo-15.png" alt="Mojo"> Mojo
-- <img src="images/markdown-15.png" alt="Markdown"> Markdown
-- <img src="images/yaml-15.png" alt="YAML"> YAML
 
 </details>
 <br>
@@ -193,8 +191,6 @@ new coding chops. <br>
 
 </details>
 
-
-
 <div align = center>
 <br>
 
@@ -202,14 +198,15 @@ new coding chops. <br>
 ⚠ Message me if you need help with your documentation design & layout.
 <br><br></kbd>
 
-
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
 
  <!-- Reference Links: -->
+<!-- Consolidate all links below:
 [ucd]:
 [nyu]:
 [python]:
 [mit-dl-coudse]:
 [pytorch-coudse]:
 [mojo]:
+-->
