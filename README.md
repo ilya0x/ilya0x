@@ -48,14 +48,13 @@ new coding chops. <br>
 
 <div align = center>
 <br>
-<kbd> <br> ⚠ Message me if you need help with your documentation design & layout.
 
-<br>
-</kbd>
+<kbd><br>
+⚠ Message me if you need help with your documentation design & layout.
+<br><br></kbd>
 
 </div>
 
-<br>
 
 ---
 
