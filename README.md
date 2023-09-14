@@ -65,9 +65,6 @@ new coding chops. <br>
 
 </details>
 
-
-<br>
-
 ---
 
 <h3>Languages and Tools:</h3>
@@ -207,7 +204,6 @@ new coding chops. <br>
 </details>
 
 <div align = center>
-<br>
 
 <kbd><br>
 ⚠ Message me if you need help with your documentation design & layout.
