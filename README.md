@@ -72,19 +72,52 @@ Languages and Tools:
   
 <summary>Templates</summary>
 
-- ![HTML5](images/html5-15.png "HTML") HTML
-  - Generic:
-  - Flask:
-  - Django:
+<br>
+<table border="1">
+        <tr>
+            <th>Language</th>
+            <th>Template Style</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td rowspan="3"><img src="images/html5-15.png" alt="HTML"> HTML</td>
+            <td>Generic</td>
+            <td>Description of the Generic template</td>
+        </tr>
+        <tr>
+            <td>Flask</td>
+            <td>Description of the Flask template</td>
+        </tr>
+        <tr>
+            <td>Django</td>
+            <td>Description of the Django template</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><img src="images/css3-15.png" alt="CSS"> CSS</td>
+            <td>Generic</td>
+            <td>Description of the Generic template</td>
+        </tr>
+        <tr>
+            <td>Detailed with Notes</td>
+            <td>Description of the Detailed with Notes template</td>
+        </tr>
+        <tr>
+            <td rowspan="2"><img src="images/sass5-15.png" alt="Sass"> Sass</td>
+            <td>Using <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr> extension</td>
+            <td>Description of Using Live Sass Compiler <abbr title="Visual Studio Code">VSC</abbr> extension template</td>
+        </tr>
+        <tr>
+            <td>Using Gulp</td>
+            <td>Description of Using Gulp template</td>
+        </tr>
+    </table>
 
-- ![CSS3](images/css3-15.png "CSS") CSS
-  - Generic:
-  - Detailed with Notes:
 - ![Sass](images/sass5-15.png "Sass") Sass
   - Using [Live Sass
     Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
     Visual Studio Code extension
   - Using Gulp
+
 - ![Python](images/python-15.png "Python") Python
   - Generic:
   - Flask:
@@ -94,8 +127,10 @@ Languages and Tools:
   - PyTorch:
     - Generic:
     - TorchAudio:
+
 - ![Mojo](images/mojo-30.png "Mojo") Mojo
   - Generic:
+
 - ![Markdown](images/markdown-30.png "Markdown") Markdown
   - Generic:
   - GitHub README following [Standard README Style](https://github.com/RichardLitt/standard-readme) with Notes
