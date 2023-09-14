@@ -40,10 +40,15 @@ I'm hoping to find a gig that lets me blend my event and content skills with my 
 <br>
 
 ---
-#### Regularly Updated Repositories:
+<details>
+  
+<summary>Regularly Updated Repositories</summary>
+
   - [My Favorite Visual Studio Code Extensions](https://github.com/ilya0x/My-Favorite-Visual-Studio-Code-Extensions)
   - [Templates and Snippets](https://github.com/ilya0x/Templates-and-Snippets) - Templates and snippets for Python, Mojo, HTML, CSS, SASS, and Markdown.
   - [All My Notes]() (coming soon...)
+
+</details>
 <br>
 
 <div align = center>
