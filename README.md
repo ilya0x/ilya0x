@@ -23,6 +23,17 @@
 
 <br>
 
+- 💭&nbsp;Experienced content strategist
+- 💡&nbsp;&nbsp;Web3 enthusiast since 2018
+- 🌱&nbsp;Currently learning everything about Machine Learning 🤯
+- 🤝&nbsp;Seeking opportunities to blend content strategy and coding skills
+- ✨&nbsp;Fun fact: I play Dungeons & Dragons weekly with my college friend
+
+<details>
+  
+<summary>A bit more about me. . .</summary>
+<br>
+
 I'm a seasoned content strategist with a background in event production and
 media coordination, a Bachelor degree in Design from [UC
 Davis](https://www.ucdavis.edu/ "University of California at Davis") and a dozen
@@ -51,6 +62,10 @@ up as I've been following its development since it was made accessible in May
 
 I'm hoping to find a gig that lets me blend my event and content skills with my
 new coding chops. <br>
+
+</details>
+
+
 <br>
 
 ---
