@@ -22,30 +22,25 @@
 
 <br>
 
-<<<<<<< HEAD
 I'm a seasoned content strategist with a background in event production and
 media coordination, a Bachelor degree in Design from [UC
-Davis](https://www.ucdavis.edu/) and a dozen [NYU](https://www.nyu.edu/) courses
-under my belt. I'm all about learning and exploring new big ideas and diving
-into data, trends, and what makes people tick.  I create content strategies that
-cover everything from text, pictures, audio, video, to the vibe of a physical or
-virtual space.
+Davis](https://www.ucdavis.edu/ "University of California at Davis") and a dozen
+[NYU](https://www.nyu.edu/ "New York University") courses under my belt. I'm all
+about learning and exploring new big ideas and diving into data, trends, and
+what makes people tick.  I create content strategies that cover everything from
+text, pictures, audio, video, to the vibe of a physical or virtual space.
 
-Lately, I've been geeking out on [Python](https://www.python.org/) and machine
-learning. The [MIT Introduction to Deep
+Lately, I've been geeking out on [Python](https://www.python.org/ "Python
+programming language") and machine learning. The [MIT Introduction to Deep
 Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 course lectures and the [PyTorch for Deep Learning & Machine Learning – Full
 Course](https://youtu.be/V_xro1bcAuA?si=i7bEsZQGZZC7rO3B) on YouTube have been
 most invaluable for both, learning the theory and terminology behind Machine
 Learning and Deep Learning, as well as learning the fundamentals of PyTorch
 (it's a 25-hour course!). I'm also excited about learning
-[Mojo🔥](https://docs.modular.com/mojo/) from ground up as I've been following
-its development since it was made accessible in May 2023.
-=======
-I'm a seasoned content strategist with a background in event production and media coordination, a Bachelor degree in Design from [UC Davis](https://www.ucdavis.edu/ "University of California at Davis") and a dozen [NYU](https://www.nyu.edu/ "New York University") courses under my belt. I'm all about learning and exploring new big ideas and diving into data, trends, and what makes people tick.  I create content strategies that cover everything from text, pictures, audio, video, to the vibe of a physical or virtual space.
-
-Lately, I've been geeking out on [Python](https://www.python.org/) and machine learning. The [MIT Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) course lectures and the [PyTorch for Deep Learning & Machine Learning – Full Course](https://youtu.be/V_xro1bcAuA?si=i7bEsZQGZZC7rO3B) on YouTube have been most invaluable for both, learning the theory and terminolagy behind Machine Learning and Deep Learning, as well as learning the fundamentals of PyTorch (it's a 25-hour course!). I'm also excited about learning [Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming language") from ground up as I've been following its development since it was made accessible in May 2023.
->>>>>>> 83dce636903303ce299e523a8a4b07e4f3d0f893
+[Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming language") from ground
+up as I've been following its development since it was made accessible in May
+2023.
 
 I'm hoping to find a gig that lets me blend my event and content skills with my
 new coding chops. <br>
@@ -77,20 +72,34 @@ Languages and Tools:
   
 <summary>Templates</summary>
 
-- ![HTML5](images/html5-20.png "HTML") HTML
+- ![HTML5](images/html5-15.png "HTML") HTML
   - Generic:
   - Flask:
   - Django:
 
-- ![CSS3](images/css3-20.png "CSS") CSS
+- ![CSS3](images/css3-15.png "CSS") CSS
   - Generic:
   - Detailed with Notes:
-- ![Sass](images/sass5-30.png "Sass") Sass
+- ![Sass](images/sass5-15.png "Sass") Sass
   - Using [Live Sass
     Compiler](https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass)
     Visual Studio Code extension
+  - Using Gulp
+- ![Python](images/python-15.png "Python") Python
+  - Generic:
   - Flask:
   - Django:
+  - PyGame:
+  - PySide6:
+  - PyTorch:
+    - Generic:
+    - TorchAudio:
+- ![Mojo](images/mojo-30.png "Mojo") Mojo
+  - Generic:
+- ![Markdown](images/markdown-30.png "Markdown") Markdown
+  - Generic:
+  - GitHub README following [Standard README Style](https://github.com/RichardLitt/standard-readme) with Notes
+  - GitHub Profile README with Notes
 
 </details>
 <br>
