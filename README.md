@@ -18,7 +18,9 @@
 <br>
 <br>
 
-> <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</i></b>
+> <b><i>"I try to leave HTML & CSS, but they keep pullin' me back in!"</i>
+>> My first job in high school, which was in the 90s, was web design using HTML,
+>> just released CSS, and Flash. . .</b>
 
 <br>
 
