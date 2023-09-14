@@ -66,7 +66,8 @@ new coding chops. <br>
 "CSS") &nbsp;&nbsp; ![Sass](images/sass5-30.png "Sass") &nbsp;&nbsp;
 ![Python](images/python-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-30.png
 "Mojo") &nbsp;&nbsp; ![Markdown](images/markdown-30.png "Markdown") &nbsp;&nbsp;
-![GitHub](images/github-30.png "GitHub")
+![YAML](images/yaml-30.png "YAML") &nbsp;&nbsp; ![GitHub](images/github-30.png
+"GitHub")
 
 <details>
   
@@ -145,7 +146,6 @@ new coding chops. <br>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-        <tr>
             <td rowspan="3"><img src="images/markdown-15.png" alt="Markdown"> Markdown</td>
             <td>Generic</td>
             <td>Description of the Generic template</td>
@@ -157,6 +157,11 @@ new coding chops. <br>
         <tr>
             <td>GitHub Profile README</td>
             <td>Description of the GitHub Profile README template</td>
+        </tr>
+        <tr>
+            <td><img src="images/yaml-15.png" alt="YAML"> YAML</td>
+            <td>Generic</td>
+            <td>Description of the Generic template</td>
         </tr>
     </table>
 
@@ -172,6 +177,7 @@ new coding chops. <br>
 - <img src="images/python-15.png" alt="Python"> Python
 - <img src="images/mojo-15.png" alt="Mojo"> Mojo
 - <img src="images/markdown-15.png" alt="Markdown"> Markdown
+- <img src="images/yaml-15.png" alt="YAML"> YAML
 
 </details>
 <br>
