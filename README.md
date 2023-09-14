@@ -2,6 +2,22 @@
 
 
 <img src="images/header.jpg" alt="Girl in a jacket">
+<div align = center>
+<br>
+
+[![Badge Twitter]][Twitter]
+[![Badge LinkedIn]][LinkedIn]
+[![Badge Instagram]][Instagram]
+
+[Badge Twitter]: https://img.shields.io/badge/Twitter-ilya0x-FFFFFF?color=FFFFFF&logo=X&logoColor=FFFFFF&labelColor=000000
+[Twitter]: https://twitter.com/ilya0x
+[Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
+[LinkedIn]: https://www.linkedin.com/in/ilya0x
+[Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
+[Instagram]: https://www.instagram.com/ilya0x/
+</div>
+<br>
+<br>
 <br>
 
 > <b><i>"I keep trying to leave HTML & CSS, but they keep pullin' me back in!"</i> I've worked in both since late 90s...</b>
@@ -16,6 +32,15 @@ I'm hoping to find a gig that lets me blend my event and content skills with my 
 <br>
 <br>
 
+<div align = center>
+<br>
+<kbd> <br> ⚠ Message me if you need help with your documentation design & layout. <br> </kbd>
+
+</div>
+
+<br>
+
+---
 #### Regularly Updated Repositories:
   - [My Favorite Visual Studio Code Extensions](https://github.com/ilya0x/My-Favorite-Visual-Studio-Code-Extensions)
   - [Templates and Snippets](https://github.com/ilya0x/Templates-and-Snippets) - Templates and snippets for Python, Mojo, HTML, CSS, SASS, and Markdown.
@@ -24,20 +49,6 @@ I'm hoping to find a gig that lets me blend my event and content skills with my 
 
 <div align = center>
 <br>
-<kbd> <br> ⚠ Message me if you need help with your documentation design & layout. <br> </kbd>
-<br>
-<br>
-<br>
 
-[![Badge Twitter]][Twitter]
-[![Badge LinkedIn]][LinkedIn]
-[![Badge Instagram]][Instagram]
-
-[Badge Twitter]: https://img.shields.io/badge/Twitter-ilya0x-FFFFFF?color=FFFFFF&logo=X&logoColor=FFFFFF&labelColor=000000
-[Twitter]: https://twitter.com/ilya0x
-[Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
-[LinkedIn]: https://www.linkedin.com/in/ilya0x
-[Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
-[Instagram]: https://www.instagram.com/ilya0x/
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
