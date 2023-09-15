@@ -119,7 +119,7 @@ new coding chops. <br>
             <img src="images/css3-15.png" alt="CSS"> CSS</a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             Generic</a></td>
-            <td>Simple generic CSS template</td>
+            <td>Simple generic CSS templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/detailed-with-notes">
@@ -176,19 +176,21 @@ new coding chops. <br>
             <td><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-15.png" alt="Mojo"> Mojo</a></td>
             <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">Generic</a></td>
-            <td>Generic Mojo templates</td>
+            <td>Mojo templates</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/markdown-templates">
             <img src="images/markdown-15.png" alt="Markdown"> Markdown</a></td>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-repository-readme">
             GitHub Repository README</a></td>
-            <td>A comprehensive template for a <a href="https://github.com/RichardLitt/standard-readme">standardized GitHub README file</a></td>
+            <td>A comprehensive template for
+            <a href="https://github.com/RichardLitt/standard-readme">standardized
+            GitHub README file</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-profile-readme">
             GitHub Profile README</a></td>
-            <td>A comprehensive template for a GitHub Profile README file</td>
+            <td>A comprehensive template for GitHub Profile README file</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/yaml-templates">
