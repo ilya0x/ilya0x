@@ -104,102 +104,97 @@ new coding chops. <br>
             <td rowspan="3"><a href="https://github.com/ilya0x/html-templates">
             <img src="images/html5-15.png" alt="HTML"> HTML</a></td>
             <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">Generic</a></td>
-            <td>Description of the Generic template</td>
+            <td>Generic HTML templates: simple and complete, with notes</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/html-templates/tree/main/flask">Flask</a></td>
-            <td>Description of the Flask template</td>
+            <td>HTML templates for Python Flask framework site</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/html-templates/tree/main/django">Django</a></td>
-            <td>Description of the Django template</td>
+            <td>HTML templates for Python Django framework site</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/css-templates">
             <img src="images/css3-15.png" alt="CSS"> CSS</a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             Generic</a></td>
-            <td>Description of the Generic template</td>
+            <td>Simple generic CSS template</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/detailed-with-notes">
             Detailed with Notes</a></td>
-            <td>Description of the Detailed with Notes template</td>
+            <td>Detailed CSS template with extensive notes</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/sass-templates">
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
             Using LSC VSC extension</a></td>
-            <td>Description of Using
+            <td>Sass templates to use with
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
-            Live Sass Compiler</a> Visual Studio Code extension template</td>
+            Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-gulp">
             Using Gulp</a></td>
-            <td>Description of Using Gulp template</td>
+            <td>Sass templates to use with Gulp Sass compiler</td>
         </tr>
         <tr>
             <td rowspan="7"><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-15.png" alt="Python"> Python</a></td>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">Generic</a></td>
-            <td>Description of the Generic template</td>
+            <td>Generic Python templates for various projects</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">Flask</a></td>
-            <td>Description of the Flask template</td>
+            <td>Flask framework templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">Django</a></td>
-            <td>Description of the Django template</td>
+            <td>Django framework templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">PySide6</a></td>
-            <td>Description of the PySide6 template</td>
+            <td>Templates for various PySide6 layouts</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/generic">
             PyTorch: Generic</a></td>
-            <td>Description of the PyTorch: Generic template</td>
+            <td>Generic PyTorch templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/torchaudio">
             PyTorch: TorchAudio</a></td>
-            <td>Description of the PyTorch: TorchAudio template</td>
+            <td>PyTorch TorchAudio templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame">PyGame</a></td>
-            <td>Description of the PyGame template</td>
+            <td>PyGame templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-15.png" alt="Mojo"> Mojo</a></td>
             <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">Generic</a></td>
-            <td>Description of the Generic template</td>
+            <td>Generic Mojo templates</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/markdown-templates">
             <img src="images/markdown-15.png" alt="Markdown"> Markdown</a></td>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-repository-readme">
             GitHub Repository README</a></td>
-            <td>Description of the GitHub README template</td>
+            <td>A comprehensive template for a <a href="https://github.com/RichardLitt/standard-readme">standardized GitHub README file</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-profile-readme">
             GitHub Profile README</a></td>
-            <td>Description of the GitHub Profile README template</td>
+            <td>A comprehensive template for a GitHub Profile README file</td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://github.com/ilya0x/yaml-templates">
+            <td><a href="https://github.com/ilya0x/yaml-templates">
             <img src="images/yaml-15.png" alt="YAML"> YAML</a></td>
             <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">Generic</a></td>
-            <td>Description of the Generic template</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/github-stats">
-            GitHub Stats</a></td>
-            <td>Description of the GitHub Stats template</td>
+            <td>Various generic YAML templates</td>
         </tr>
     </table>
 
