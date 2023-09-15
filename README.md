@@ -254,7 +254,7 @@ Coming Soon: Table of all icons and logos I use, in 5 convenient sizes, some in
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya0x&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya0x&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya0x&layout=compact&theme=dark)
 
 </details>
 
