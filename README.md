@@ -190,7 +190,7 @@ new coding chops. <br>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/github-stats">
-            </a>GitHub Stats</td>
+            GitHub Stats</a></td>
             <td>Description of the GitHub Stats template</td>
         </tr>
     </table>
