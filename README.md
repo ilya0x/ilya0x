@@ -9,7 +9,7 @@
 [![Badge LinkedIn]][LinkedIn]
 [![Badge Instagram]][Instagram]
 
-[Badge DEV]: https://img.shields.io/badge/DEV-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
+[Badge DEV]: https://img.shields.io/badge/DEV.to-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
 [DEV]: https://dev.to/ilya0x
 [X Follow]: https://img.shields.io/twitter/follow/ilya0x
 [Twitter]: https://twitter.com/ilya0x
