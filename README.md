@@ -5,13 +5,13 @@
 <br>
 
 [![Badge DEV]][DEV]
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ilya0x)](https://twitter.com/ilya0x)
+[![X Follow]][Twitter]
 [![Badge LinkedIn]][LinkedIn]
 [![Badge Instagram]][Instagram]
 
 [Badge DEV]: https://img.shields.io/badge/DEV-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
 [DEV]: https://dev.to/ilya0x
-[X (formerly Twitter) Follow]: https://img.shields.io/twitter/follow/ilya0x
+[X Follow]: https://img.shields.io/twitter/follow/ilya0x
 [Twitter]: https://twitter.com/ilya0x
 [Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
