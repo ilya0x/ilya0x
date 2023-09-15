@@ -80,13 +80,13 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3><img src="images/template-20.png" alt="HTML"> Templates for
-<img src="images/html5-15.png" alt="HTML"> HTML,
-<img src="images/css3-15.png" alt="CSS"> CSS,
-<img src="images/sass5-s-15.png" alt="Sass"> Sass,
-<img src="images/python-15.png" alt="Python"> Python,
-<img src="images/mojo-15.png" alt="Mojo"> Mojo,
-<img src="images/markdown-15.png" alt="Markdown"> Markdown, and
+<summary><h3><img src="images/template-20.png" alt="HTML"> Templates:
+<img src="images/html5-15.png" alt="HTML"> HTML |
+<img src="images/css3-15.png" alt="CSS"> CSS |
+<img src="images/sass5-s-15.png" alt="Sass"> Sass |
+<img src="images/python-15.png" alt="Python"> Python |
+<img src="images/mojo-15.png" alt="Mojo"> Mojo |
+<img src="images/markdown-15.png" alt="Markdown"> Markdown |
 <img src="images/yaml-15.png" alt="YAML"> YAML</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
@@ -204,10 +204,10 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3><img src="images/json-20.png" alt="HTML"> Snippets for
-<img src="images/html5-15.png" alt="HTML"> HTML,
-<img src="images/sass5-s-15.png" alt="Sass"> Sass,
-<img src="images/python-15.png" alt="Python"> Python, and
+<summary><h3><img src="images/json-20.png" alt="HTML"> Snippets:
+<img src="images/html5-15.png" alt="HTML"> HTML |
+<img src="images/sass5-s-15.png" alt="Sass"> Sass |
+<img src="images/python-15.png" alt="Python"> Python |
 <img src="images/mojo-15.png" alt="Mojo"> Mojo</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
@@ -222,7 +222,7 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>🖼 Logos and Icons</h3></summary>
+<summary><h3>🖼 Logos & Icons</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
