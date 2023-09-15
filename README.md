@@ -69,9 +69,7 @@ new coding chops. <br>
 </details>
 <br>
 
----
-
-<h3>Languages and Tools:</h3>
+## Languages and Tools
 
 ![VS Code](images/vscode-30.png "Visual Studio Code") &nbsp;&nbsp;
 ![HTML5](images/html5-30.png "HTML") &nbsp;&nbsp; ![CSS3](images/css3-30.png
@@ -83,7 +81,14 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Templates for HTML, CSS, Sass, Python, Mojo, Markdown, and YAML</h3></summary>
+<summary><h3><img src="images/template-20.png" alt="HTML"> Templates for
+<img src="images/html5-15.png" alt="HTML"> HTML,
+<img src="images/css3-15.png" alt="CSS"> CSS,
+<img src="images/sass5-s-15.png" alt="Sass"> Sass,
+<img src="images/python-15.png" alt="Python"> Python,
+<img src="images/mojo-15.png" alt="Mojo"> Mojo,
+<img src="images/markdown-15.png" alt="Markdown"> Markdown, and
+<img src="images/yaml-15.png" alt="YAML"> YAML</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -184,7 +189,11 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3>Snippets for HTML, Sass, Python, and Mojo</h3></summary>
+<summary><h3><img src="images/json-20.png" alt="HTML"> Snippets for
+<img src="images/html5-15.png" alt="HTML"> HTML,
+<img src="images/sass5-s-15.png" alt="Sass"> Sass,
+<img src="images/python-15.png" alt="Python"> Python, and
+<img src="images/mojo-15.png" alt="Mojo"> Mojo</h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -206,7 +215,7 @@ new coding chops. <br>
 
 <details>
   
-<summary><h4>GitHub Stats</h4></summary>
+<summary><h3><img src="images/github-20.png" alt="HTML"> GitHub Stats</h3></summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilya0x)](https://github.com/anuraghazra/github-readme-stats)
 
