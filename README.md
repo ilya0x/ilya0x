@@ -5,14 +5,12 @@
 <br>
 
 [![Badge DEV]][DEV]
-[![Badge Twitter]][Twitter]
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ilya0x)
 [![Badge LinkedIn]][LinkedIn]
 [![Badge Instagram]][Instagram]
 
 [Badge DEV]: https://img.shields.io/badge/DEV-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
 [DEV]: https://dev.to/ilya0x
-[Badge Twitter]: https://img.shields.io/badge/Twitter-ilya0x-FFFFFF?color=FFFFFF&logo=X&logoColor=FFFFFF&labelColor=000000
-[Twitter]: https://twitter.com/ilya0x
 [Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
 [Badge Instagram]: https://img.shields.io/badge/Instagram-ilya0x-FFFFFF?color=FFFFFF&logo=Instagram&logoColor=FFFFFF&labelColor=962fbf
