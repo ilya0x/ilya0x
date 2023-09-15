@@ -121,7 +121,7 @@ new coding chops. <br>
             <td>Description of the Detailed with Notes template</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="images/sass5-15.png" alt="Sass"> Sass</td>
+            <td rowspan="2"><img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
             <td>Using <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
             Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr> extension</td>
             <td>Description of Using Live Sass Compiler
@@ -199,7 +199,7 @@ new coding chops. <br>
 <br>
 
 - <img src="images/html5-15.png" alt="HTML"> HTML
-- <img src="images/sass5-15.png" alt="Sass"> Sass
+- <img src="images/sass5-s-15.png" alt="Sass"> Sass
 - <img src="images/python-15.png" alt="Python"> Python
 - <img src="images/mojo-15.png" alt="Mojo"> Mojo
 
