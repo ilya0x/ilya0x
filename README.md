@@ -185,11 +185,11 @@ new coding chops. <br>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/yaml-templates">
             <img src="images/yaml-15.png" alt="YAML"> YAML</a></td>
-            <td><a href="https://github.com/ilya0x/yaml-templates/generic">Generic</a></td>
+            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">Generic</a></td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/yaml-templates/github-stats">
+            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/github-stats">
             </a>GitHub Stats</td>
             <td>Description of the GitHub Stats template</td>
         </tr>
