@@ -28,8 +28,9 @@
 - 💭&nbsp;Experienced content strategist
 - 💡&nbsp;&nbsp;Web3 enthusiast since 2018
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
-- 🤝&nbsp;Seeking opportunities to blend content strategy and coding skills
-- ✨&nbsp;Fun fact: I play Dungeons & Dragons weekly with my college friend
+- 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
+- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
+- <img src="images/team-tabs4life-15.png" alt="Team Tabs4Life logo">
 
 <details>
   
