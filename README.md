@@ -215,6 +215,19 @@ new coding chops. <br>
 
 </details>
 
+<details>
+  
+<summary><h3>🖼 Logos and Icons</h3></summary>
+
+<img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
+<br>
+
+Coming Soon: Table of all icons and logos I use, in 5 convenient sizes, some in
+2 versions for light and dark modes on GitHub.
+
+</details>
+
+
 ---
 
 ### <img src="images/dev-20.png" alt="DEV.to logo"> Latest Posts on [DEV.to](https://dev.to/)
