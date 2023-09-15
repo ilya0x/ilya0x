@@ -30,7 +30,9 @@
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
 - 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
-- 😂[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
+- 😂[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
+  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
+  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
 
 <details>
   
@@ -81,14 +83,14 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3><img src="images/template-20.png" alt="HTML"> Templates:
-<img src="images/html5-15.png" alt="HTML"> HTML |
-<img src="images/css3-15.png" alt="CSS"> CSS |
-<img src="images/sass5-s-15.png" alt="Sass"> Sass |
-<img src="images/python-15.png" alt="Python"> Python |
-<img src="images/mojo-15.png" alt="Mojo"> Mojo |
-<img src="images/markdown-15.png" alt="Markdown"> Markdown |
-<img src="images/yaml-15.png" alt="YAML"> YAML</h3></summary>
+<summary><h3><img src="images/template-20.png" alt="HTML"> Templates:&nbsp;
+<img src="images/html5-15.png" alt="HTML">&nbsp;
+<img src="images/css3-15.png" alt="CSS">&nbsp;
+<img src="images/sass5-s-15.png" alt="Sass">&nbsp;
+<img src="images/python-15.png" alt="Python">&nbsp;
+<img src="images/mojo-15.png" alt="Mojo">&nbsp;
+<img src="images/markdown-15.png" alt="Markdown">&nbsp;
+<img src="images/yaml-15.png" alt="YAML"></h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -205,11 +207,11 @@ new coding chops. <br>
 
 <details>
   
-<summary><h3><img src="images/json-20.png" alt="HTML"> Snippets:
-<img src="images/html5-15.png" alt="HTML"> HTML |
-<img src="images/sass5-s-15.png" alt="Sass"> Sass |
-<img src="images/python-15.png" alt="Python"> Python |
-<img src="images/mojo-15.png" alt="Mojo"> Mojo</h3></summary>
+<summary><h3><img src="images/json-20.png" alt="HTML"> Snippets:&nbsp;
+<img src="images/html5-15.png" alt="HTML">&nbsp;
+<img src="images/sass5-s-15.png" alt="Sass">&nbsp;
+<img src="images/python-15.png" alt="Python">&nbsp;
+<img src="images/mojo-15.png" alt="Mojo"></h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
