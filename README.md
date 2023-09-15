@@ -213,10 +213,18 @@ new coding chops. <br>
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
 
-- <img src="images/html5-15.png" alt="HTML"> HTML
-- <img src="images/sass5-s-15.png" alt="Sass"> Sass
-- <img src="images/python-15.png" alt="Python"> Python
-- <img src="images/mojo-15.png" alt="Mojo"> Mojo
+- <img src="images/html5-15.png" alt="HTML"> HTML: <a
+  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/html.json"><img
+  src="images/json-15.png" alt="HTML">html.json</a>
+- <img src="images/sass5-s-15.png" alt="Sass"> Sass: <a
+  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/sass.json"><img
+  src="images/json-15.png" alt="HTML">sass.json</a>
+- <img src="images/python-15.png" alt="Python"> Python: <a
+  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/python.json"><img
+  src="images/json-15.png" alt="HTML">python.json</a>
+- <img src="images/mojo-15.png" alt="Mojo"> Mojo: <a
+  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/mojo.json"><img
+  src="images/json-15.png" alt="HTML">mojo.json</a>
 
 </details>
 
