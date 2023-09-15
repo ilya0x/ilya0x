@@ -195,7 +195,7 @@ new coding chops. <br>
 
 ---
 
-### 📓 Latest Blog Posts
+### 📓 Latest Posts on [DEV.to](https://dev.to/)
 <!-- BLOG-POST-LIST:START -->
 - [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
 <!-- BLOG-POST-LIST:END -->
