@@ -253,10 +253,10 @@ Coming Soon: Table of all icons and logos I use, in 5 convenient sizes, some in
 <summary><h3><img src="images/github-20.png" alt="HTML"> GitHub Stats</h3></summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ilya0x&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilya0x&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout=compact&theme=dark&langs_count=8&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout=compact&theme=dark&langs_count=8&card_width=300" />
 </a>
 
 </details>
