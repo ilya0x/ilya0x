@@ -30,7 +30,7 @@
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
 - 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
-- 😂[![team-tabs4life](images/teamtabs4life-15-light.png#gh-light-mode-only "Team Tabs4Life logo")![team-tabs4life](images/teamtabs4life-15-dark.png#gh-dark-mode-only "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life)
+- 😂[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
 
 <details>
   
