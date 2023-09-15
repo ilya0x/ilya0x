@@ -99,89 +99,99 @@ new coding chops. <br>
             <th>Description</th>
         </tr>
         <tr>
-            <td rowspan="3"><img src="images/html5-15.png" alt="HTML"> HTML</td>
-            <td>Generic</td>
+            <td rowspan="3"><a href="https://github.com/ilya0x/html-templates">
+            <img src="images/html5-15.png" alt="HTML"> HTML</a></td>
+            <td><a href=""></a> Generic</td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td>Flask</td>
+            <td><a href=""></a>Flask</td>
             <td>Description of the Flask template</td>
         </tr>
         <tr>
-            <td>Django</td>
+            <td><a href=""></a>Django</td>
             <td>Description of the Django template</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="images/css3-15.png" alt="CSS"> CSS</td>
-            <td>Generic</td>
+            <td rowspan="2"><a href=""></a><img src="images/css3-15.png" alt="CSS"> CSS</td>
+            <td><a href=""></a>Generic</td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td>Detailed with Notes</td>
+            <td><a href=""></a>Detailed with Notes</td>
             <td>Description of the Detailed with Notes template</td>
         </tr>
         <tr>
-            <td rowspan="2"><img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
-            <td>Using <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
-            Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr> extension</td>
-            <td>Description of Using Live Sass Compiler
-            <abbr title="Visual Studio Code">VSC</abbr> extension template</td>
+            <td rowspan="2"><a href=""></a><img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
+            <td><a href=""></a>Using <abbr title="Live Sass Compiler">LSC</abbr>
+            <abbr title="Visual Studio Code">VSC</abbr> extension</td>
+            <td>Description of Using
+            <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">Live
+            Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr>
+            extension template</td>
         </tr>
         <tr>
-            <td>Using Gulp</td>
+            <td><a href=""></a>Using Gulp</td>
             <td>Description of Using Gulp template</td>
         </tr>
         <tr>
-            <td rowspan="7"><img src="images/python-15.png" alt="Python"> Python</td>
-            <td>Generic</td>
+            <td rowspan="7"><a href=""></a><img src="images/python-15.png" alt="Python"> Python</td>
+            <td><a href=""></a>Generic</td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td>Flask</td>
+            <td><a href=""></a>Flask</td>
             <td>Description of the Flask template</td>
         </tr>
         <tr>
-            <td>Django</td>
+            <td><a href=""></a>Django</td>
             <td>Description of the Django template</td>
         </tr>
         <tr>
-            <td>PyGame</td>
+            <td><a href=""></a>PyGame</td>
             <td>Description of the PyGame template</td>
         </tr>
         <tr>
-            <td>PySide6</td>
+            <td><a href=""></a>PySide6</td>
             <td>Description of the PySide6 template</td>
         </tr>
         <tr>
-            <td>PyTorch: Generic</td>
+            <td><a href=""></a>PyTorch: Generic</td>
             <td>Description of the PyTorch: Generic template</td>
         </tr>
         <tr>
-            <td>PyTorch: TorchAudio</td>
+            <td><a href=""></a>PyTorch: TorchAudio</td>
             <td>Description of the PyTorch: TorchAudio template</td>
         </tr>
         <tr>
-            <td><img src="images/mojo-15.png" alt="Mojo"> Mojo</td>
-            <td>Generic</td>
+            <td><a href=""></a><img src="images/mojo-15.png" alt="Mojo"> Mojo</td>
+            <td><a href=""></a>Generic</td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td rowspan="3"><img src="images/markdown-15.png" alt="Markdown"> Markdown</td>
-            <td>Generic</td>
+            <td rowspan="3"><a href=""></a><img src="images/markdown-15.png"
+            alt="Markdown"> Markdown</td>
+            <td><a href=""></a>Generic</td>
             <td>Description of the Generic template</td>
         </tr>
         <tr>
-            <td>GitHub README</td>
+            <td><a href=""></a>GitHub README</td>
             <td>Description of the GitHub README template</td>
         </tr>
         <tr>
-            <td>GitHub Profile README</td>
+            <td><a href=""></a>GitHub Profile README</td>
             <td>Description of the GitHub Profile README template</td>
         </tr>
         <tr>
-            <td><img src="images/yaml-15.png" alt="YAML"> YAML</td>
-            <td>Generic</td>
+            <td rowspan="2"><a href="https://github.com/ilya0x/yaml-templates">
+            <img src="images/yaml-15.png" alt="YAML"> YAML</a></td>
+            <td><a href="https://github.com/ilya0x/yaml-templates/generic">Generic</a></td>
             <td>Description of the Generic template</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ilya0x/yaml-templates/github-stats">
+            </a>GitHub Stats</td>
+            <td>Description of the GitHub Stats template</td>
         </tr>
     </table>
 
