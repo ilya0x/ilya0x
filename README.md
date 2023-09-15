@@ -127,12 +127,10 @@ new coding chops. <br>
             <td rowspan="2"><a href="https://github.com/ilya0x/sass-templates">
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
-            Using <abbr title="Live Sass Compiler">LSC</abbr>
-            <abbr title="Visual Studio Code">VSC</abbr> extension</a></td>
+            Using LSC VSC extension</a></td>
             <td>Description of Using
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
-            Live Sass Compiler</a> <abbr title="Visual Studio Code">VSC</abbr>
-            extension template</td>
+            Live Sass Compiler</a> Visual Studio Code extension template</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-gulp">
