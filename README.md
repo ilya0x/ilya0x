@@ -217,7 +217,7 @@ new coding chops. <br>
 
 ---
 
-### 📓 Latest Posts on [DEV.to](https://dev.to/)
+### <img src="images/dev-20.png" alt="DEV.to logo"> Latest Posts on [DEV.to](https://dev.to/)
 <!-- BLOG-POST-LIST:START -->
 - [Team Tabs 4 Life: How to avoid {} and ; in your coding](https://dev.to/ilya0x/team-tabs-4-life-how-to-avoid-and-in-your-coding-4mb)
 - [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
