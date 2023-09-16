@@ -76,9 +76,11 @@ new coding chops. <br>
 ![VS Code](images/vscode-30.png "Visual Studio Code") &nbsp;&nbsp;
 ![HTML5](images/html5-full-30.png "HTML") &nbsp;&nbsp; ![CSS3](images/css3-full-30.png
 "CSS") &nbsp;&nbsp; ![Sass](images/sass5-30.png "Sass") &nbsp;&nbsp;
-![Python](images/python-full-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-full-30.png
+![Python](images/python-full-30.png "Python") &nbsp;&nbsp;
+![Python](images/jinja-full-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-full-30.png
 "Mojo") &nbsp;&nbsp; ![Markdown](images/markdown-full-30.png "Markdown") &nbsp;&nbsp;
-![YAML](images/yaml-30.png "YAML") &nbsp;&nbsp; ![GitHub](images/github-30.png
+![YAML](images/yaml-30.png "YAML") &nbsp;&nbsp;
+![YAML](images/mysql-full-30.png "YAML") &nbsp;&nbsp; ![GitHub](images/github-30.png
 "GitHub")
 
 <details>
@@ -101,50 +103,55 @@ new coding chops. <br>
             <th>Description</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/html-templates">
+            <td align=center><a href="https://github.com/ilya0x/html-templates">
             <img src="images/html5-full-30.png" alt="HTML"></a></td>
-            <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">Generic</a></td>
+            <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Generic HTML templates:  1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/css-templates">
+            <td align=center><a href="https://github.com/ilya0x/css-templates">
             <img src="images/css3-full-30.png" alt="CSS"></a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
-            Generic</a></td>
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Generic CSS templates: 1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://github.com/ilya0x/sass-templates">
+            <td rowspan="2" align=center><a href="https://github.com/ilya0x/sass-templates">
             <img src="images/sass5-30.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
-            Using LSC VSC extension</a></td>
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Sass templates to use with
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-gulp">
-            Using Gulp</a></td>
-            <td>Sass templates to use with Gulp Sass compiler</td>
+            <b>Notes on using Gulp</b></a></td>
+            <td>How to setup and use Gulp Sass compiler</td>
         </tr>
         <tr>
-            <td rowspan="7"><a href="https://github.com/ilya0x/python-templates">
+            <td rowspan="7" align=center><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-full-30.png" alt="Python"></a></td>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">Generic</a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Generic Python templates for various projects</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask"><img src="images/flask-full-30.png" alt="Flask"></a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">
+            <img src="images/flask-full-30.png" alt="Flask"></a></td>
             <td>Flask framework setup, including static and template files:
             HTML, CSS & Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/django"><img src="images/django-full-30.png" alt="Django"></a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">
+            <img src="images/django-full-30.png" alt="Django"></a></td>
             <td>Django framework setup, including static and template files:
             HTML, CSS & Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6"><img src="images/pyside6-full-30.png" alt="PySide6"></a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">
+            <img src="images/pyside6-full-30.png" alt="PySide6"></a></td>
             <td>Templates for various PySide6 layouts</td>
         </tr>
         <tr>
@@ -158,33 +165,36 @@ new coding chops. <br>
             <td>PyTorch TorchAudio templates</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame"><img src="images/pygame-full-30.png" alt="PyGame"></a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame">
+            <img src="images/pygame-full-30.png" alt="PyGame"></a></td>
             <td>PyGame templates</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/mojo-templates">
+            <td align=center><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-full-30.png" alt="Mojo"></a></td>
-            <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">Generic</a></td>
+            <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Mojo templates</td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://github.com/ilya0x/markdown-templates">
+            <td rowspan="2" align=center><a href="https://github.com/ilya0x/markdown-templates">
             <img src="images/markdown-full-30.png" alt="Markdown"></a></td>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-repository-readme">
-            Repository README</a></td>
+            <b>Repository README</b></a></td>
             <td>A comprehensive template for
             <a href="https://github.com/RichardLitt/standard-readme">standardized
             GitHub README file</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-profile-readme">
-            Profile README</a></td>
+            <b>Profile README</b></a></td>
             <td>A comprehensive template for GitHub Profile README file</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/yaml-templates">
+            <td align=center><a href="https://github.com/ilya0x/yaml-templates">
             <img src="images/yaml-30.png" alt="YAML"></a></td>
-            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">Generic</a></td>
+            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">
+            <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Various generic YAML templates</td>
         </tr>
     </table>
@@ -201,21 +211,31 @@ new coding chops. <br>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
+<table border="1">
+        <tr>
+            <th>Language</th>
+            <th>Snippet File</th>
+        </tr>
+        <tr>
+            <td align=center><img src="images/html5-full-30.png" alt="HTML"></td>
+            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/html.json">html.json</a></td>
+        </tr>
+        <tr>
+            <td align=center><img src="images/sass5-30.png" alt="Sass"></td>
+            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/sass.json">sass.json</a></td>
+        </tr>
+        <tr>
+            <td align=center><img src="images/python-full-30.png" alt="Python"></td>
+            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/python.json">python.json</a></td>
+        </tr>
+        <tr>
+            <td align=center><img src="images/mojo-full-30.png" alt="Mojo"></td>
+            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/mojo.json">mojo.json</a></td>
+        </tr>
+</table>
+<br>
 
-- <img src="images/html5-15.png" alt="HTML"> HTML: <a
-  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/html.json"><img
-  src="images/json-15.png" alt="HTML">html.json</a>
-- <img src="images/sass5-s-15.png" alt="Sass"> Sass: <a
-  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/sass.json"><img
-  src="images/json-15.png" alt="HTML">sass.json</a>
-- <img src="images/python-15.png" alt="Python"> Python: <a
-  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/python.json"><img
-  src="images/json-15.png" alt="HTML">python.json</a>
-- <img src="images/mojo-15.png" alt="Mojo"> Mojo: <a
-  href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/mojo.json"><img
-  src="images/json-15.png" alt="HTML">mojo.json</a>
-
-- Coming soon: Jinja
+- Coming soon: <img src="images/jinja-full-30.png" alt="Jinja">
 
 </details>
 
