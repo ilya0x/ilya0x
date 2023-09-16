@@ -101,30 +101,17 @@ new coding chops. <br>
             <th>Description</th>
         </tr>
         <tr>
-            <td rowspan="3"><a href="https://github.com/ilya0x/html-templates">
+            <td><a href="https://github.com/ilya0x/html-templates">
             <img src="images/html5-15.png" alt="HTML"> HTML</a></td>
             <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">Generic</a></td>
-            <td>Generic HTML templates: simple and complete, with notes</td>
+            <td>Generic HTML templates:  1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/html-templates/tree/main/flask">Flask</a></td>
-            <td>HTML templates for Python Flask framework site</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/ilya0x/html-templates/tree/main/django">Django</a></td>
-            <td>HTML templates for Python Django framework site</td>
-        </tr>
-        <tr>
-            <td rowspan="2"><a href="https://github.com/ilya0x/css-templates">
+            <td><a href="https://github.com/ilya0x/css-templates">
             <img src="images/css3-15.png" alt="CSS"> CSS</a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             Generic</a></td>
-            <td>Simple generic CSS templates</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/ilya0x/css-templates/tree/main/detailed-with-notes">
-            Detailed with Notes</a></td>
-            <td>Detailed CSS template with extensive notes</td>
+            <td>Generic CSS templates: 1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/sass-templates">
@@ -148,11 +135,13 @@ new coding chops. <br>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">Flask</a></td>
-            <td>Flask framework templates</td>
+            <td>Flask framework setup, including static and template files:
+            HTML, CSS & Sass</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">Django</a></td>
-            <td>Django framework templates</td>
+            <td>Django framework setup, including static and template files:
+            HTML, CSS & Sass</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">PySide6</a></td>
