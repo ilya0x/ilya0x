@@ -215,6 +215,7 @@ new coding chops. <br>
   href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/mojo.json"><img
   src="images/json-15.png" alt="HTML">mojo.json</a>
 
+- Coming soon: Jinja
 </details>
 
 <details>
