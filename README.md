@@ -74,10 +74,10 @@ new coding chops. <br>
 ## Languages and Tools
 
 ![VS Code](images/vscode-30.png "Visual Studio Code") &nbsp;&nbsp;
-![HTML5](images/html5-30.png "HTML") &nbsp;&nbsp; ![CSS3](images/css3-30.png
+![HTML5](images/html5-full-30.png "HTML") &nbsp;&nbsp; ![CSS3](images/css3-full-30.png
 "CSS") &nbsp;&nbsp; ![Sass](images/sass5-30.png "Sass") &nbsp;&nbsp;
-![Python](images/python-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-30.png
-"Mojo") &nbsp;&nbsp; ![Markdown](images/markdown-30.png "Markdown") &nbsp;&nbsp;
+![Python](images/python-full-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-full-30.png
+"Mojo") &nbsp;&nbsp; ![Markdown](images/markdown-full-30.png "Markdown") &nbsp;&nbsp;
 ![YAML](images/yaml-30.png "YAML") &nbsp;&nbsp; ![GitHub](images/github-30.png
 "GitHub")
 
@@ -102,20 +102,20 @@ new coding chops. <br>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/html-templates">
-            <img src="images/html5-15.png" alt="HTML"> HTML</a></td>
+            <img src="images/html5-full-30.png" alt="HTML"></a></td>
             <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">Generic</a></td>
             <td>Generic HTML templates:  1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/css-templates">
-            <img src="images/css3-15.png" alt="CSS"> CSS</a></td>
+            <img src="images/css3-full-30.png" alt="CSS"></a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             Generic</a></td>
             <td>Generic CSS templates: 1 simple and 1 complete version, with notes</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/sass-templates">
-            <img src="images/sass5-s-15.png" alt="Sass"> Sass</a></td>
+            <img src="images/sass5-30.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
             Using LSC VSC extension</a></td>
             <td>Sass templates to use with
@@ -129,61 +129,61 @@ new coding chops. <br>
         </tr>
         <tr>
             <td rowspan="7"><a href="https://github.com/ilya0x/python-templates">
-            <img src="images/python-15.png" alt="Python"> Python</a></td>
+            <img src="images/python-full-30.png" alt="Python"></a></td>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">Generic</a></td>
             <td>Generic Python templates for various projects</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">Flask</a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask"><img src="images/flask-full-30.png" alt="Flask"></a></td>
             <td>Flask framework setup, including static and template files:
             HTML, CSS & Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">Django</a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/django"><img src="images/django-full-30.png" alt="Django"></a></td>
             <td>Django framework setup, including static and template files:
             HTML, CSS & Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">PySide6</a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6"><img src="images/pyside6-full-30.png" alt="PySide6"></a></td>
             <td>Templates for various PySide6 layouts</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/generic">
-            PyTorch: Generic</a></td>
+            <img src="images/pytorch-full-30.png" alt="PyTorch"></a></td>
             <td>Generic PyTorch templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/torchaudio">
-            PyTorch: TorchAudio</a></td>
+            <img src="images/torchaudio-full-30.png" alt="Torchaudio"></a></td>
             <td>PyTorch TorchAudio templates</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame">PyGame</a></td>
+            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame"><img src="images/pygame-full-30.png" alt="PyGame"></a></td>
             <td>PyGame templates</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/mojo-templates">
-            <img src="images/mojo-15.png" alt="Mojo"> Mojo</a></td>
+            <img src="images/mojo-full-30.png" alt="Mojo"></a></td>
             <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">Generic</a></td>
             <td>Mojo templates</td>
         </tr>
         <tr>
             <td rowspan="2"><a href="https://github.com/ilya0x/markdown-templates">
-            <img src="images/markdown-15.png" alt="Markdown"> Markdown</a></td>
+            <img src="images/markdown-full-30.png" alt="Markdown"></a></td>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-repository-readme">
-            GitHub Repository README</a></td>
+            Repository README</a></td>
             <td>A comprehensive template for
             <a href="https://github.com/RichardLitt/standard-readme">standardized
             GitHub README file</a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-profile-readme">
-            GitHub Profile README</a></td>
+            Profile README</a></td>
             <td>A comprehensive template for GitHub Profile README file</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/yaml-templates">
-            <img src="images/yaml-15.png" alt="YAML"> YAML</a></td>
+            <img src="images/yaml-30.png" alt="YAML"></a></td>
             <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">Generic</a></td>
             <td>Various generic YAML templates</td>
         </tr>
@@ -216,6 +216,7 @@ new coding chops. <br>
   src="images/json-15.png" alt="HTML">mojo.json</a>
 
 - Coming soon: Jinja
+
 </details>
 
 <details>
