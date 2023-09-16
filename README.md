@@ -96,6 +96,12 @@ new coding chops. <br>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
+
+<!-- explain here where the links take you:
+- The logos in the Languages column will take you to note for that language.
+- The logos, Generic and other links will take you to templates sections with notes.
+-->
+
 <table border="1">
         <tr>
             <th>Language</th>
@@ -140,14 +146,18 @@ new coding chops. <br>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">
             <img src="images/flask-full-30.png" alt="Flask"></a></td>
-            <td>Flask framework setup, including static and template files:
-            HTML, CSS & Sass</td>
+            <td>Flask framework setup, including static and template files:<br>
+            <img src="images/html5-15.png" alt="HTML"> HTML,
+            <img src="images/css3-15.png" alt="CSS"> CSS and
+            <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">
             <img src="images/django-full-30.png" alt="Django"></a></td>
-            <td>Django framework setup, including static and template files:
-            HTML, CSS & Sass</td>
+            <td>Django framework setup, including static and template files:<br>
+            <img src="images/html5-15.png" alt="HTML"> HTML,
+            <img src="images/css3-15.png" alt="CSS"> CSS and
+            <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
         <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">
