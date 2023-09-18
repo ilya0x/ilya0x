@@ -1,5 +1,11 @@
 # Hello, world! 👋
 
+<!-- TODO: make lard/light mode icons for all that need it:
+[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
+  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
+  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
+  -->
+
 <img src="images/header.jpg" alt="Girl in a jacket">
 <div align = center>
 
@@ -30,9 +36,6 @@
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
 - 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
-- 😂[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
-  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
-  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
 
 <details>
   
