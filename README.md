@@ -123,7 +123,7 @@ new coding chops. <br>
             <img src="images/css3-full-30.png" alt="CSS"></a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Generic CSS templates: 1 simple and 1 complete version, with notes</td>
+            <td>Generic CSS templates: a pair of basic light and dark mode templates with inline notes.</td>
         </tr>
         <tr>
             <td rowspan="2" align=center><a href="https://github.com/ilya0x/sass-templates">
