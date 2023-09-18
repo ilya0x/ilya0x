@@ -130,7 +130,7 @@ new coding chops. <br>
             <img src="images/sass5-30.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
             <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Sass templates to use with
+            <td>Setup to use with
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
