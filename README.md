@@ -1,5 +1,11 @@
 # Hello, world! 👋
 
+<!-- TODO: make lard/light mode icons for all that need it:
+[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
+  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
+  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
+  -->
+
 <img src="images/header.jpg" alt="Girl in a jacket">
 <div align = center>
 
@@ -30,9 +36,6 @@
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
 - 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
-- 😂[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
-  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
-  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
 
 <details>
   
@@ -126,14 +129,14 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/css3-full-30.png" alt="CSS"></a></td>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
             <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Generic CSS templates: 1 simple and 1 complete version, with notes</td>
+            <td>A pair of basic light and dark mode templates with inline notes</td>
         </tr>
         <tr>
             <td rowspan="2" align=center><a href="https://github.com/ilya0x/sass-templates">
             <img src="images/sass5-30.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
             <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Sass templates to use with
+            <td>Setup to use with
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
