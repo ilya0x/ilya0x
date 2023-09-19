@@ -73,15 +73,21 @@ new coding chops. <br>
 
 ## Languages and Tools
 
-![VS Code](images/vscode-30.png "Visual Studio Code") &nbsp;&nbsp;
-![HTML5](images/html5-full-30.png "HTML") &nbsp;&nbsp; ![CSS3](images/css3-full-30.png
-"CSS") &nbsp;&nbsp; ![Sass](images/sass5-30.png "Sass") &nbsp;&nbsp;
-![Python](images/python-full-30.png "Python") &nbsp;&nbsp;
-![Python](images/jinja-full-30.png "Python") &nbsp;&nbsp; ![Mojo](images/mojo-full-30.png
-"Mojo") &nbsp;&nbsp; ![Markdown](images/markdown-full-30.png "Markdown") &nbsp;&nbsp;
-![YAML](images/yaml-30.png "YAML") &nbsp;&nbsp;
-![YAML](images/mysql-full-30.png "YAML") &nbsp;&nbsp; ![GitHub](images/github-30.png
-"GitHub")
+[![VS Code](images/vscode-30.png "Visual Studio
+Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
+[![HTML5](images/html5-full-30.png "HTML")](https://html5.org/) &nbsp;&nbsp;
+[![CSS3](images/css3-full-30.png
+"CSS")](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;&nbsp;
+[![Sass](images/sass5-30.png "Sass")](https://sass-lang.com) &nbsp;&nbsp;
+[![Python](images/python-full-30.png "Python")](https://www.python.org/)
+&nbsp;&nbsp; [![Jinja](images/jinja-full-30.png
+"Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
+[![Mojo](images/mojo-full-30.png "Mojo")](https://www.modular.com/mojo)
+&nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
+"Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
+[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
+[![MySQL](images/mysql-full-30.png "MySQL")](https://www.mysql.com/) &nbsp;&nbsp;
+[![GitHub](images/github-30.png "GitHub")](https://github.com/)
 
 <details>
   
