@@ -89,8 +89,12 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
 [![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
-[![MySQL](images/mysql-full-30.png "MySQL")](https://www.mysql.com/) &nbsp;&nbsp;
-[![GitHub](images/github-30.png "GitHub")](https://github.com/)
+[![MySQL](images/mysql-full-30.png "MySQL")](https://www.mysql.com/)
+&nbsp;&nbsp; [![GitHub](images/github-30.png "GitHub")](https://github.com/)
+&nbsp;&nbsp; [![GitHub](images/ps-30.png
+"Photoshop")](https://www.adobe.com/products/photoshop.html) &nbsp;&nbsp;
+[![GitHub](images/ai-30.png
+"Illustrator")](https://www.adobe.com/products/illustrator.html)
 
 <details>
   
