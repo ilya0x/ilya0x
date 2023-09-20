@@ -110,34 +110,85 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
 
-<!-- explain here where the links take you:
-- The logos in the Languages column will take you to note for that language.
-- The logos, Generic and other links will take you to templates sections with notes.
--->
+- The logos in the <b>Language</b> column will take you to `README.md` for each
+  of the languages. It includes:
+  - General basic facts about the language
+  - <img src="images/template-15.png" alt="VS Code"> Templates
+  - <img src="images/vscode-15.png" alt="VS Code"> Visual Studio Code extensions
+    list
+  - 📝Notes - a notes section on specific topics/elements of the language with a
+    table of contents
+<br>
+
+- Except for the <img src="images/python-15.png" alt="Python"> Python section,
+  the links in the <b>Template</b> column will take you directly to that template's
+  folder.
+  - All notes about each template and its elements are in the template's code as
+    block and inline comments.
+  - <img src="images/python-15.png" alt="Python"> Python section:<br>
+    The links in the <b>Template</b> column will take you to `README.md` for
+    that <img src="images/python-15.png" alt="Python"> Python library/module. It
+    includes:
+    - General basic facts about the <img src="images/python-15.png"
+      alt="Python"> Python library/module
+    - <img src="images/template-15.png" alt="VS Code"> Templates with notes as
+      block and inline comments in code
+    - <img src="images/vscode-15.png" alt="VS Code"> Visual Studio Code
+      extensions list
+    - 📝Notes - a notes section on specific topics/elements of the library/module
+      with a table of contents<br>
+
+<br>
 
 <table border="1">
         <tr>
             <th>Language</th>
-            <th>Template Style</th>
+            <th>Template</th>
             <th>Description</th>
         </tr>
         <tr>
-            <td align=center><a href="https://github.com/ilya0x/html-templates">
-            <img src="images/html5-full-30.png" alt="HTML"></a></td>
-            <td><a href="https://github.com/ilya0x/html-templates/tree/main/generic">
-            <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Generic HTML templates:  1 simple and 1 complete version, with notes</td>
+            <td rowspan="2" align=center><a href="https://github.com/ilya0x/html-templates">
+            <img src="images/html5-full-50.png" alt="HTML"></a></td>
+            <td><a href="https://github.com/ilya0x/html-templates/blob/main/generic/index-basic.html">
+            <b>Basic</b></a></td>
+            <td>Ready for use in any project requiring simple HTML needs with
+            block and inline notes in the code, including <code>TODOs</code>
+            that work with <a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.
+            todo-tree" alt="Todo Tree">Todo Tree</a> <img src=
+            "images/vscode-15.png" alt="VS Code"> VS Code extension.</td>
         </tr>
         <tr>
-            <td align=center><a href="https://github.com/ilya0x/css-templates">
-            <img src="images/css3-full-30.png" alt="CSS"></a></td>
-            <td><a href="https://github.com/ilya0x/css-templates/tree/main/generic">
-            <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>A pair of basic light and dark mode templates with inline notes</td>
+            <td><a href=
+            "https://github.com/ilya0x/html-templates/blob/main/generic/index-complete.html">
+            <b>Complete w/ Notes</b></a></td>
+            <td>Includes examples of most useful HTML elements.</td>
+        </tr>
+        <tr>
+            <td rowspan="4" align=center><a href="https://github.com/ilya0x/css-templates">
+            <img src="images/css3-full-50.png" alt="CSS"></a></td>
+            <td><a href="https://github.com/ilya0x/css-templates/blob/main/generic/dark-mode.css">
+            <b>Generic Dark Mode</b></a></td>
+            <td>A basic dark mode template with inline notes.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ilya0x/css-templates/blob/main/generic/light-mode.css">
+            <b>Generic Light Mode</b></a></td>
+            <td>A basic light mode template with inline notes.</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ilya0x/css-templates/tree/main/photo-gallery-flexbox">
+            <b>FLEXBOX Gallery</b></a></td>
+            <td>Includes HTML and placeholder images (which are all my photographs).</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ilya0x/css-templates/tree/main/grid-and-flex-demo">
+            <b>Grid and Flex Demo</b></a></td>
+            <td>Fun animation demo of Grid and Flex working together. Includes
+            HTML and images.</td>
         </tr>
         <tr>
             <td rowspan="2" align=center><a href="https://github.com/ilya0x/sass-templates">
-            <img src="images/sass5-30.png" alt="Sass"></a></td>
+            <img src="images/sass5-50.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
             <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Setup to use with
@@ -151,7 +202,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         </tr>
         <tr>
             <td rowspan="7" align=center><a href="https://github.com/ilya0x/python-templates">
-            <img src="images/python-full-30.png" alt="Python"></a></td>
+            <img src="images/python-full-50.png" alt="Python"></a></td>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">
             <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Generic Python templates for various projects</td>
@@ -194,14 +245,14 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         </tr>
         <tr>
             <td align=center><a href="https://github.com/ilya0x/mojo-templates">
-            <img src="images/mojo-full-30.png" alt="Mojo"></a></td>
+            <img src="images/mojo-full-50.png" alt="Mojo"></a></td>
             <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">
             <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Mojo templates</td>
         </tr>
         <tr>
             <td rowspan="2" align=center><a href="https://github.com/ilya0x/markdown-templates">
-            <img src="images/markdown-full-30.png" alt="Markdown"></a></td>
+            <img src="images/markdown-full-50.png" alt="Markdown"></a></td>
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-repository-readme">
             <b>Repository README</b></a></td>
             <td>A comprehensive template for
@@ -215,7 +266,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         </tr>
         <tr>
             <td align=center><a href="https://github.com/ilya0x/yaml-templates">
-            <img src="images/yaml-30.png" alt="YAML"></a></td>
+            <img src="images/yaml-50.png" alt="YAML"></a></td>
             <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">
             <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Various generic YAML templates</td>
@@ -270,9 +321,15 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <br>
 
 Coming Soon: Table of all icons and logos I use, in 5 convenient sizes, some in
-2 versions for light and dark modes on GitHub.
+2 versions for light and dark modes on GitHub: Languages, Software, Tools, and
+other. Will include notes on how to setup light/dark mode images for GitHub.
+
+> Project Idea: Python app that takes a PNG image and creates the set of 5 sizes
+> and 2 versions for light and dark modes with appropriate names.
 
 </details>
+
+<br>
 
 ---
 
