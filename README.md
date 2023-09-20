@@ -151,9 +151,9 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/html5-full-50.png" alt="HTML"></a></td>
             <td><a href="https://github.com/ilya0x/html-templates/blob/main/generic/index-basic.html">
             <b>Basic</b></a></td>
-            <td>Ready for use in any project requiring simple HTML needs with
-            block and inline notes in the code, including <code>TODOs</code>
-            that work with <a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.
+            <td>For simple HTML needs with block and inline notes in the code,
+            including <code>TODOs</code> that work with <a href="
+            https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.
             todo-tree" alt="Todo Tree">Todo Tree</a> <img src=
             "images/vscode-15.png" alt="VS Code"> VS Code extension.</td>
         </tr>
