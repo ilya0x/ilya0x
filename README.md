@@ -32,8 +32,8 @@
 <br>
 
 - 💭&nbsp;Experienced content strategist
-- 💡&nbsp;&nbsp;Web3 enthusiast since 2018
 - 🌱&nbsp;Currently learning everything about Machine Learning 🤯
+- 💡&nbsp;&nbsp;Web3 enthusiast since 2018
 - 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
 
