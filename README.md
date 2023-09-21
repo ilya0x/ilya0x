@@ -96,10 +96,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
 [![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
 [![GitHub](images/github-30.png "GitHub")](https://github.com/)
-&nbsp;&nbsp; [![GitHub](images/ps-30.png
-"Photoshop")](https://www.adobe.com/products/photoshop.html) &nbsp;&nbsp;
-[![GitHub](images/ai-30.png
-"Illustrator")](https://www.adobe.com/products/illustrator.html)
 
 <details>
   
