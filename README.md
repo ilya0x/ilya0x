@@ -187,18 +187,13 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             HTML and images.</td>
         </tr>
         <tr>
-            <td rowspan="2" align=center><a href="https://github.com/ilya0x/sass-templates">
+            <td align=center><a href="https://github.com/ilya0x/sass-templates">
             <img src="images/sass5-50.png" alt="Sass"></a></td>
             <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-lsc-ext">
-            <img src="images/generic-15.png" alt="generic"></a></td>
+            <b>Basic</b></a></td>
             <td>Setup to use with
             <a href="https://marketplace.visualstudio.com/items?itemName=glenn2223.live-sass">
             Live Sass Compiler</a> Visual Studio Code extension</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/ilya0x/sass-templates/tree/main/using-gulp">
-            <b>Notes on using Gulp</b></a></td>
-            <td>How to setup and use Gulp Sass compiler</td>
         </tr>
         <tr>
             <td rowspan="7" align=center><a href="https://github.com/ilya0x/python-templates">
