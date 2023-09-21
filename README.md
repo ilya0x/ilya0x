@@ -88,9 +88,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 [![Mojo](images/mojo-full-30.png "Mojo")](https://www.modular.com/mojo)
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
-[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
-[![MySQL](images/mysql-full-30.png "MySQL")](https://www.mysql.com/)
-&nbsp;&nbsp; [![GitHub](images/github-30.png "GitHub")](https://github.com/)
+[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp; [![GitHub](images/github-30.png "GitHub")](https://github.com/)
 &nbsp;&nbsp; [![GitHub](images/ps-30.png
 "Photoshop")](https://www.adobe.com/products/photoshop.html) &nbsp;&nbsp;
 [![GitHub](images/ai-30.png
@@ -195,7 +193,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
         <tr>
-            <td rowspan="6" align=center><a href="https://github.com/ilya0x/python-templates">
+            <td rowspan="4" align=center><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-full-50.png" alt="Python"></a></td>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">
             <img src="images/flask-full-30.png" alt="Flask"></a></td>
@@ -213,11 +211,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pyside6">
-            <img src="images/pyside6-full-30.png" alt="PySide6"></a></td>
-            <td>Templates for various PySide6 layouts</td>
-        </tr>
-        <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/generic">
             <img src="images/pytorch-full-30.png" alt="PyTorch"></a></td>
             <td>Generic PyTorch templates</td>
@@ -226,11 +219,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/torchaudio">
             <img src="images/torchaudio-full-30.png" alt="Torchaudio"></a></td>
             <td>PyTorch TorchAudio templates</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pygame">
-            <img src="images/pygame-full-30.png" alt="PyGame"></a></td>
-            <td>PyGame templates</td>
         </tr>
         <tr>
             <td align=center><a href="https://github.com/ilya0x/mojo-templates">
