@@ -104,8 +104,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <img src="images/sass5-s-15.png" alt="Sass">&nbsp;
 <img src="images/python-15.png" alt="Python">&nbsp;
 <img src="images/mojo-15.png" alt="Mojo">&nbsp;
-<img src="images/markdown-15.png" alt="Markdown">&nbsp;
-<img src="images/yaml-15.png" alt="YAML"></h3></summary>
+<img src="images/markdown-15.png" alt="Markdown"></h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
 <br>
@@ -196,13 +195,8 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
         <tr>
-            <td rowspan="7" align=center><a href="https://github.com/ilya0x/python-templates">
+            <td rowspan="6" align=center><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-full-50.png" alt="Python"></a></td>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/generic">
-            <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Generic Python templates for various projects</td>
-        </tr>
-        <tr>
             <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">
             <img src="images/flask-full-30.png" alt="Flask"></a></td>
             <td>Flask framework setup, including static and template files:<br>
@@ -258,13 +252,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <td><a href="https://github.com/ilya0x/markdown-templates/tree/main/github-profile-readme">
             <b>Profile README</b></a></td>
             <td>A comprehensive template for GitHub Profile README file</td>
-        </tr>
-        <tr>
-            <td align=center><a href="https://github.com/ilya0x/yaml-templates">
-            <img src="images/yaml-50.png" alt="YAML"></a></td>
-            <td><a href="https://github.com/ilya0x/yaml-templates/tree/main/generic">
-            <img src="images/generic-15.png" alt="generic"></a></td>
-            <td>Various generic YAML templates</td>
         </tr>
     </table>
 
