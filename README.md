@@ -90,10 +90,12 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 [![Python](images/python-full-30.png "Python")](https://www.python.org/)
 &nbsp;&nbsp; [![Jinja](images/jinja-full-30.png
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
+[![HTML5](images/flutter-full-30.png "Flutter")](https://html5.org/) &nbsp;&nbsp;
 [![Mojo](images/mojo-full-30.png "Mojo")](https://www.modular.com/mojo)
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
-[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp; [![GitHub](images/github-30.png "GitHub")](https://github.com/)
+[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
+[![GitHub](images/github-30.png "GitHub")](https://github.com/)
 &nbsp;&nbsp; [![GitHub](images/ps-30.png
 "Photoshop")](https://www.adobe.com/products/photoshop.html) &nbsp;&nbsp;
 [![GitHub](images/ai-30.png
@@ -106,6 +108,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <img src="images/css3-15.png" alt="CSS">&nbsp;
 <img src="images/sass5-s-15.png" alt="Sass">&nbsp;
 <img src="images/python-15.png" alt="Python">&nbsp;
+<img src="images/flutter-15.png" alt="Mojo">&nbsp;
 <img src="images/mojo-15.png" alt="Mojo">&nbsp;
 <img src="images/markdown-15.png" alt="Markdown"></h3></summary>
 
@@ -226,10 +229,14 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <td>PyTorch TorchAudio templates</td>
         </tr>
         <tr>
+            <td align=center><img src="images/flutter-full-50.png" alt="Mojo"></td>
+            <td>Coming soon..</td>
+            <td>Flutter templates</td>
+        </tr>
+        <tr>
             <td align=center><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-full-50.png" alt="Mojo"></a></td>
-            <td>Coming soon...
-            <img src="images/generic-15.png" alt="generic"></a></td>
+            <td>Coming soon..</a></td>
             <td>Mojo templates</td>
         </tr>
         <tr>
