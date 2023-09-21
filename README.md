@@ -200,7 +200,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         <tr>
             <td rowspan="4" align=center><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-full-50.png" alt="Python"></a></td>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/flask">
+            <td><a href="https://github.com/ilya0x/flask-templates">
             <img src="images/flask-full-30.png" alt="Flask"></a></td>
             <td>Flask framework setup, including static and template files:<br>
             <img src="images/html5-15.png" alt="HTML"> HTML,
@@ -208,7 +208,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/django">
+            <td><a href="https://github.com/ilya0x/django-templates">
             <img src="images/django-full-30.png" alt="Django"></a></td>
             <td>Django framework setup, including static and template files:<br>
             <img src="images/html5-15.png" alt="HTML"> HTML,
@@ -216,12 +216,12 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/generic">
+            <td><a href="https://github.com/ilya0x/pytorch-templates">
             <img src="images/pytorch-full-30.png" alt="PyTorch"></a></td>
             <td>Generic PyTorch templates</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ilya0x/python-templates/tree/main/pytorch/torchaudio">
+            <td><a href="https://github.com/ilya0x/torchaudio-templates">
             <img src="images/torchaudio-full-30.png" alt="Torchaudio"></a></td>
             <td>PyTorch TorchAudio templates</td>
         </tr>
