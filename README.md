@@ -228,7 +228,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         <tr>
             <td align=center><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-full-50.png" alt="Mojo"></a></td>
-            <td><a href="https://github.com/ilya0x/mojo-templates/tree/main/generic">
+            <td>Coming soon...
             <img src="images/generic-15.png" alt="generic"></a></td>
             <td>Mojo templates</td>
         </tr>
