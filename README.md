@@ -31,11 +31,16 @@
 
 <br>
 
-- 💭&nbsp;Experienced content strategist
-- 🌱&nbsp;Currently learning everything about Machine Learning 🤯
-- 💡&nbsp;&nbsp;Web3 enthusiast since 2018
-- 🤝&nbsp;Seeking opportunities to blend content strategy with coding skills
-- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friend
+- 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
+  <img src="images/github-15.png">
+- 🌱&nbsp;Learning everything about Machine Learning 🤯
+- 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
+  href="https://soliditylang.org/">Solidity</a> <img
+  src="images/ethereum-15.png">
+- 🤝&nbsp;Seeking opportunities to blend my content strategy and event
+  production with continuously growing coding skills.
+- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.
+  I'm Dixon Ticonderoga, a Wood Elf Shadow Monk. I'm Number 2 in the monastery. 🧝‍♂️
 
 <details>
   
