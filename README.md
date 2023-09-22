@@ -291,22 +291,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 
 </details>
 
-<details>
-  
-<summary><h3>🖼 Logos & Icons</h3></summary>
-
-<img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
-<br>
-
-Coming Soon: Table of all icons and logos I use, in 5 convenient sizes, some in
-2 versions for light and dark modes on GitHub: Languages, Software, Tools, and
-other. Will include notes on how to setup light/dark mode images for GitHub.
-
-> Project Idea: Python app that takes a PNG image and creates the set of 5 sizes
-> and 2 versions for light and dark modes with appropriate names.
-
-</details>
-
 <br>
 
 ---
