@@ -295,16 +295,16 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <br>
 
 ---
-
+<!--
 ### <img src="images/dev-20.png" alt="DEV.to logo"> Latest Posts on [DEV.to](https://dev.to/)
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --
 - [Team Tabs 4 Life: How to avoid {} and ; in your coding](https://dev.to/ilya0x/team-tabs-4-life-how-to-avoid-and-in-your-coding-4mb)
 - [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
-<!-- BLOG-POST-LIST:END -->
-
+<!-- BLOG-POST-LIST:END --
+-->
 <details>
   
-<summary><h3><img src="images/github-20.png" alt="HTML"> GitHub Stats</h3></summary>
+<summary><h3><img src="images/github-20.png" alt="HTML"> My GitHub Stats</h3></summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180
   align="center"
