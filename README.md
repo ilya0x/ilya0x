@@ -31,7 +31,7 @@
 
 <br>
 
-- 🌐&nbsp;I used to be a web developer. I still am, but I used to be as well.
+- 👨‍💻&nbsp;I used to be a web developer. I still am, but I used to be as well. 😄
 - 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
   <img src="images/github-15.png">
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
@@ -39,7 +39,7 @@
   href="https://soliditylang.org/">Solidity</a> <img
   src="images/ethereum-15.png">
 - 🤝&nbsp;Seeking opportunities to blend my content strategy and event
-  production with continuously growing coding skills.
+  production with continuously growing coding skills. 👨‍💼
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.
   I'm Dixon Ticonderoga, a Wood Elf Shadow Monk. I'm Number 2 in the monastery. 🧝‍♂️
 
