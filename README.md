@@ -226,7 +226,8 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <td>PyTorch TorchAudio templates</td>
         </tr>
         <tr>
-            <td align=center><img src="images/flutter-full-50.png" alt="Mojo"></td>
+            <td align=center><a href="https://github.com/ilya0x/flutter-templates">
+            <img src="images/flutter-full-50.png" alt="Mojo"></a></td>
             <td>Coming soon..</td>
             <td>Flutter templates</td>
         </tr>
