@@ -185,8 +185,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         <tr>
             <td><a href="https://github.com/ilya0x/css-templates/tree/main/grid-and-flex-demo">
             <b>Grid and Flex Demo</b></a></td>
-            <td>Fun animation demo of Grid and Flex working together. Includes
-            HTML and images.</td>
+            <td>Fun animation demo of Grid and Flex working together.</td>
         </tr>
         <tr>
             <td align=center><a href="https://github.com/ilya0x/sass-templates">
