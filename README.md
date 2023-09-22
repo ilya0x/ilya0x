@@ -294,6 +294,12 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 
 <br>
 
+<div align = center>
+<kbd><br>
+⚠ Message me if you need help with your documentation design & layout.
+<br><br></kbd>
+</div>
+
 ---
 <!--
 ### <img src="images/dev-20.png" alt="DEV.to logo"> Latest Posts on [DEV.to](https://dev.to/)
@@ -303,7 +309,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <!-- BLOG-POST-LIST:END --
 -->
 <details>
-  
+
 <summary><h3><img src="images/github-20.png" alt="HTML"> My GitHub Stats</h3></summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180
@@ -317,11 +323,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout
 </details>
 
 <div align = center>
-
-<kbd><br>
-⚠ Message me if you need help with your documentation design & layout.
-<br><br></kbd>
-
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
 
