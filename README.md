@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-<!-- TODO: make lard/light mode icons for all that need it:
+<!-- TODO: make dark/light mode icons for all that need it:
 [![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
   logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
   "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
@@ -31,6 +31,7 @@
 
 <br>
 
+- 🌐&nbsp;I used to be a web developer. I still am, but I used to be as well.
 - 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
   <img src="images/github-15.png">
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
