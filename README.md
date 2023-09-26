@@ -3,8 +3,8 @@
 <!-- TODO: make dark/light mode icons for all that need it:
 [![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
   logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
-  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)
-  -->
+  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)-->
+<!-- TODO: Reference Links at bottom of doc -->
 
 <img src="images/header.jpg" alt="Girl in a jacket">
 <div align = center>
@@ -31,7 +31,7 @@
 
 <br>
 
-- 👨‍💻&nbsp;I used to be a web developer. I still am, but I used to be as well. 😄
+- 👨‍💻&nbsp;I used to be a web developer. I still am, but I used to be as well.😄
 - 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
   <img src="images/github-15.png">
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
@@ -271,19 +271,19 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
         </tr>
         <tr>
             <td align=center><img src="images/html5-full-30.png" alt="HTML"></td>
-            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/html.json">html.json</a></td>
+            <td>coming soon. . .</td>
         </tr>
         <tr>
             <td align=center><img src="images/sass5-30.png" alt="Sass"></td>
-            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/sass.json">sass.json</a></td>
+            <td>coming soon. . .</td>
         </tr>
         <tr>
             <td align=center><img src="images/python-full-30.png" alt="Python"></td>
-            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/python.json">python.json</a></td>
+            <td>coming soon. . .</td>
         </tr>
         <tr>
             <td align=center><img src="images/mojo-full-30.png" alt="Mojo"></td>
-            <td><a href="https://github.com/ilya0x/snippets-for-html-sass-python-mojo/blob/main/mojo.json">mojo.json</a></td>
+            <td>coming soon. . .</td>
         </tr>
 </table>
 <br>
@@ -301,13 +301,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 </div>
 
 ---
-<!--
-### <img src="images/dev-20.png" alt="DEV.to logo"> Latest Posts on [DEV.to](https://dev.to/)
-<!-- BLOG-POST-LIST:START --
-- [Team Tabs 4 Life: How to avoid {} and ; in your coding](https://dev.to/ilya0x/team-tabs-4-life-how-to-avoid-and-in-your-coding-4mb)
-- [Hello, world!](https://dev.to/ilya0x/hello-world-jl7)
-<!-- BLOG-POST-LIST:END --
--->
+
 <details>
 
 <summary><h3><img src="images/github-20.png" alt="HTML"> My GitHub Stats</h3></summary>
@@ -326,7 +320,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
 
- <!-- Reference Links: -->
+<!-- Reference Links: -->
 <!-- Consolidate all links below:
 [twitter]
 [linkedin]
