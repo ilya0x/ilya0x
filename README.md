@@ -65,14 +65,11 @@ infrastructure and tools to come out of it.
 Lately, I've been geeking out on [Python](https://www.python.org/ "Python
 programming language") and machine learning. The [MIT Introduction to Deep
 Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-course lectures and the [PyTorch for Deep Learning & Machine Learning – Full
-Course](https://youtu.be/V_xro1bcAuA?si=i7bEsZQGZZC7rO3B) on YouTube have been
-most invaluable for both, learning the theory and terminology behind Machine
-Learning and Deep Learning, as well as learning the fundamentals of PyTorch
-(it's a 25-hour course!). I'm also excited about learning
-[Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming language") from ground
-up as I've been following its development since it was made accessible in May
-2023.
+course lectures on YouTube have been most invaluable for learning the
+theory and terminology behind Machine Learning and Deep Learning. I'm also excited
+about learning [Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming
+language") from ground up as I've been following its development since it was
+made accessible in May 2023.
 
 I'm hoping to find a gig that lets me blend my event and content skills with my
 new coding chops. <br>
