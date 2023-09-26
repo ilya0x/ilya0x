@@ -260,6 +260,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <img src="images/html5-15.png" alt="HTML">&nbsp;
 <img src="images/sass5-s-15.png" alt="Sass">&nbsp;
 <img src="images/python-15.png" alt="Python">&nbsp;
+<img src="images/jinja-15.png" alt="Jinja">&nbsp;
 <img src="images/mojo-15.png" alt="Mojo"></h3></summary>
 
 <img src="images/work-in-progress-icon-70.png" alt="Work in Progress">
@@ -282,13 +283,15 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <td>coming soon. . .</td>
         </tr>
         <tr>
+            <td align=center><img src="images/jinja-full-30.png" alt="Jinja"></td>
+            <td>coming soon. . .</td>
+        </tr>
+        <tr>
             <td align=center><img src="images/mojo-full-30.png" alt="Mojo"></td>
             <td>coming soon. . .</td>
         </tr>
 </table>
 <br>
-
-- Coming soon: <img src="images/jinja-full-30.png" alt="Jinja">
 
 </details>
 
