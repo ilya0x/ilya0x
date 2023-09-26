@@ -91,7 +91,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 [![Python](images/python-full-30.png "Python")](https://www.python.org/)
 &nbsp;&nbsp; [![Jinja](images/jinja-full-30.png
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
-[![HTML5](images/flutter-full-30.png "Flutter")](https://html5.org/) &nbsp;&nbsp;
 [![Mojo](images/mojo-full-30.png "Mojo")](https://www.modular.com/mojo)
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
@@ -105,7 +104,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <img src="images/css3-15.png" alt="CSS">&nbsp;
 <img src="images/sass5-s-15.png" alt="Sass">&nbsp;
 <img src="images/python-15.png" alt="Python">&nbsp;
-<img src="images/flutter-15.png" alt="Mojo">&nbsp;
 <img src="images/mojo-15.png" alt="Mojo">&nbsp;
 <img src="images/markdown-15.png" alt="Markdown"></h3></summary>
 
@@ -145,7 +143,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 <table border="1">
         <tr>
             <th>Language</th>
-            <th>Template</th>
+            <th width=150>Template</th>
             <th>Description</th>
         </tr>
         <tr>
@@ -197,7 +195,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             Live Sass Compiler</a> Visual Studio Code extension</td>
         </tr>
         <tr>
-            <td rowspan="4" align=center><a href="https://github.com/ilya0x/python-templates">
+            <td rowspan="2" align=center><a href="https://github.com/ilya0x/python-templates">
             <img src="images/python-full-50.png" alt="Python"></a></td>
             <td><a href="https://github.com/ilya0x/flask-templates">
             <img src="images/flask-full-30.png" alt="Flask"></a></td>
@@ -214,7 +212,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/css3-15.png" alt="CSS"> CSS and
             <img src="images/sass5-s-15.png" alt="Sass"> Sass</td>
         </tr>
-        <tr>
+<!--        <tr>
             <td><a href="https://github.com/ilya0x/pytorch-templates">
             <img src="images/pytorch-full-30.png" alt="PyTorch"></a></td>
             <td>Generic PyTorch templates</td>
@@ -229,7 +227,7 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
             <img src="images/flutter-full-50.png" alt="Mojo"></a></td>
             <td>Coming soon..</td>
             <td>Flutter templates</td>
-        </tr>
+        </tr> -->
         <tr>
             <td align=center><a href="https://github.com/ilya0x/mojo-templates">
             <img src="images/mojo-full-50.png" alt="Mojo"></a></td>
