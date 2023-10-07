@@ -292,12 +292,6 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 
 <br>
 
-<div align = center>
-<kbd><br>
-⚠ Message me if you need help with your documentation design & layout.
-<br><br></kbd>
-</div>
-
 ---
 
 <details>
