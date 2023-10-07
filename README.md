@@ -31,7 +31,7 @@
 
 <br>
 
-- 👨‍💻&nbsp;I used to be a web developer. I still am, but I used to be one too.😄
+- 👨‍💻&nbsp;Building [Mojo-Forum.com](https://mojo-forum.com) 🏗
 - 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
   <img src="images/github-15.png">
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
