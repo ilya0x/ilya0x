@@ -112,10 +112,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout
 
 </details>
 
-My PFP is a portrait of me by <a href="https://www.stephenbliss.com/">Stephen
-Bliss</a>, Ex-Senior Artist at Rockstar Games for GTA franchise. It is an <a
-href="https://etherscan.io/nft/0x0f58d2db1fe0aa4c4c39ff8216934ab070e6e968/2">NFT
-on Ethereum blockchain</a>.
 <div align = center>
 <img src="images/footer.jpg" alt="Girl in a jacket">
 </div>
