@@ -25,14 +25,8 @@
 </div>
 <br>
 
-> <b><i>"I try to leave HTML & CSS, but they keep pullin' me back in!"</i>
->> My first job in high school, which was in the 90s, was web design using HTML,
->> just released CSS, and Flash. . .</b>
-
-<br>
-
-- 👨‍💻&nbsp;Building [Mojo-Forum.com](https://mojo-forum.com) 🏗
-- 💻&nbsp;Current obsession: coding, learning new languages, and updating repos
+- 🕊☮&nbsp;Working on my Peace Corps Volunteer application 🏗
+- 👨‍💻&nbsp;Current obsession: coding, learning new languages, and updating repos
   <img src="images/github-15.png">
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
