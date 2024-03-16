@@ -25,9 +25,8 @@
 </div>
 <br>
 
-- 🕊☮&nbsp;Building [Mojo-Forum.com](https://mojo-forum.com) 🏗
-- 👨‍💻&nbsp;Current obsession: coding, learning new languages, and updating repos
-  <img src="images/github-15.png">
+- ☮&nbsp;Working on my Peace Corps application 🏗
+- 👨‍💻&nbsp;Creating a Computer Science course, based on Harvard's CS50 lectures 🖥
 - 🌱&nbsp;Learning everything about Machine Learning 🤯
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/">Solidity</a> <img
