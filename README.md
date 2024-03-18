@@ -15,7 +15,7 @@
 </div>
 <br>
 
-- ☮&nbsp;Working on my Peace Corps application 🏗
+- 🕊&nbsp;Working on my Peace Corps application 🏗
 - 👨‍💻&nbsp;Creating a Computer Science course, based on Harvard's CS50 lectures 🖥
 - 🌱&nbsp;Learning everything about Machine Learning 🤯 Also learning to work with Raspberry Pi boards and accessories ⚙
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
