@@ -73,10 +73,8 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 [![Python](images/python-full-30.png "Python")](https://www.python.org/)
 &nbsp;&nbsp; [![Jinja](images/jinja-full-30.png
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
-[![Mojo](images/mojo-full-30.png "Mojo")](https://www.modular.com/mojo)
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
-[![YAML](images/yaml-30.png "YAML")](https://yaml.org/) &nbsp;&nbsp;
 [![GitHub](images/github-30.png "GitHub")](https://github.com/)
 
 <br>
