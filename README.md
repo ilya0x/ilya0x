@@ -24,12 +24,11 @@
 
 - ☮&nbsp;Working on my Peace Corps application 🏗
 - 👨‍💻&nbsp;Creating a Computer Science course, based on Harvard's CS50 lectures 🖥
-- 🌱&nbsp;Learning everything about Machine Learning 🤯
+- 🌱&nbsp;Learning everything about Machine Learning 🤯 Also learning to work with Raspberry Pi boards and accessories ⚙
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/">Solidity</a> <img
   src="images/ethereum-15.png">
-- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.
-  I'm Dixon Ticonderoga, a Wood Elf Shadow Monk. I'm Number 2 in the monastery. 🧝‍♂️
+- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.🧝‍♂️
 
 <details>
   
@@ -58,6 +57,10 @@ theory and terminology behind Machine Learning and Deep Learning. I'm also excit
 about learning [Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming
 language") from ground up as I've been following its development since it was
 made accessible in May 2023.
+
+Now, as I stand on the cusp of a new phase in my life, the Peace Corps beckons me. 
+Reflecting on my professional journey and volunteer experiences, I feel that I am 
+ready to contribute significantly to the Corps' mission.
 
 </details>
 <br>
