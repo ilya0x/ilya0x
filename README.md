@@ -1,12 +1,5 @@
 # Hello, world! 👋
 
-<!-- TODO: make dark/light mode icons for all that need it:
-[![team-tabs4life](images/teamtabs4life-15-light.png "Team Tabs4Life
-  logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only#gh-light-mode-only)[![team-tabs4life](images/teamtabs4life-15-dark.png
-  "Team Tabs4Life logo")](https://github.com/Team-Tabs4Life#gh-dark-mode-only)-->
-<!-- TODO: Reference Links at bottom of doc -->
-
-<img src="images/header.jpg" alt="Girl in a jacket">
 <div align = center>
 
 [![Badge Medium]][Medium]
@@ -97,10 +90,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout
 /> </a>
 
 </details>
-
-<div align = center>
-<img src="images/footer.jpg" alt="Girl in a jacket">
-</div>
 
 <!-- Reference Links: -->
 <!-- Consolidate all links below:
