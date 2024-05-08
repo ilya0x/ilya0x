@@ -16,46 +16,13 @@
 <br>
 
 - 🕊&nbsp;Working on my Peace Corps application 🏗
-- 👨‍💻&nbsp;Creating a Computer Science course, based on Harvard's CS50 lectures 🖥
-- 🌱&nbsp;Learning everything about Machine Learning 🤯 Also learning to work with Raspberry Pi boards and accessories ⚙
+- 👨‍💻&nbsp;Creating a Computer Science course, based on <a href="https://www.youtube.com/@cs50">Harvard's CS50 lectures</a> 🖥
+- 🌱&nbsp;Learning to work with <a href="https://www.raspberrypi.com/">Raspberry Pi</a> boards and accessories ⚙ Also learning everything about Machine Learning 🤯
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/">Solidity</a> <img
   src="images/ethereum-15.png">
 - ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.🧝‍♂️
 
-<details>
-  
-<summary>A bit more about me. . .</summary>
-<br>
-
-I'm a seasoned content strategist with a background in event production and
-media coordination, a Bachelor degree in Design from [UC
-Davis](https://www.ucdavis.edu/ "University of California at Davis") and a dozen
-[NYU](https://www.nyu.edu/ "New York University") courses under my belt. I'm all
-about learning and exploring new big ideas and diving into data, trends, and
-what makes people tick.  I create content strategies that cover everything from
-text, pictures, audio, video, to the vibe of a physical or virtual space.
-
-I've been in Web3 space since 2018. I have worked with over a dozen NFT and
-cryptocurrency projects in various capacities, including Creative Advisor for a
-NFT trading platform and Director of Communications for a blueship NFT project.
-I am very optimistic and excited about Web3 space and expect great financial
-infrastructure and tools to come out of it.
-
-Lately, I've been geeking out on [Python](https://www.python.org/ "Python
-programming language") and machine learning. The [MIT Introduction to Deep
-Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-course lectures on YouTube have been most invaluable for learning the
-theory and terminology behind Machine Learning and Deep Learning. I'm also excited
-about learning [Mojo🔥](https://docs.modular.com/mojo/ "Mojo programming
-language") from ground up as I've been following its development since it was
-made accessible in May 2023.
-
-Now, as I stand on the cusp of a new phase in my life, the Peace Corps beckons me. 
-Reflecting on my professional journey and volunteer experiences, I feel that I am 
-ready to contribute significantly to the Corps' mission.
-
-</details>
 <br>
 
 ## Languages and Tools
