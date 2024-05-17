@@ -3,13 +3,10 @@
 <div align = center>
 
 [![Badge Medium]][Medium]
-[![X Follow]][Twitter]
 [![Badge LinkedIn]][LinkedIn]
 
 [Badge Medium]: https://img.shields.io/badge/Medium-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
 [Medium]: https://medium.com/@ilya0x
-[X Follow]: https://img.shields.io/twitter/follow/ilya0x
-[Twitter]: https://twitter.com/ilya0x
 [Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
 </div>
