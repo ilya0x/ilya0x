@@ -12,13 +12,12 @@
 </div>
 <br>
 
-- 🕊&nbsp;Working on my Peace Corps application 🏗
+- 🕊&nbsp;Working on DavisForUkraine.org 🏗
 - 👨‍💻&nbsp;Creating a Computer Science course, based on <a href="https://www.youtube.com/@cs50"  target=”_blank”>Harvard's CS50 lectures</a> 🖥
-- 🌱&nbsp;Learning to work with <a href="https://www.raspberrypi.com/" target=”_blank”>Raspberry Pi</a> boards and accessories ⚙ Also learning everything about Machine Learning 🤯
+- 🌱&nbsp;Studying Machine Learning 🤯
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/" target=”_blank”>Solidity</a> <img
   src="images/ethereum-15.png">
-- ✨&nbsp;Fun fact: I play Dungeons & Dragons 5e weekly with my college friends.🧝‍♂️
 
 <br>
 
