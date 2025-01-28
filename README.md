@@ -35,34 +35,3 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
 [![GitHub](images/github-30.png "GitHub")](https://github.com/)
-
-<br>
-
----
-
-<details>
-
-<summary><h3><img src="images/github-20.png" alt="HTML"> My GitHub Stats</h3></summary>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img height=180
-  align="center"
-src="https://github-readme-stats.vercel.app/api?username=ilya0x&show_icons=true&theme=tokyonight"
-/> </a> <a href="https://github.com/anuraghazra/convoychat"> <img height=180
-  align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=ilya0x&layout=compact&theme=tokyonight&langs_count=8"
-/> </a>
-
-</details>
-
-<!-- Reference Links: -->
-<!-- Consolidate all links below:
-[twitter]
-[linkedin]
-[instagram]
-[ucd]:
-[nyu]:
-[python]:
-[mit-dl-coudse]:
-[pytorch-coudse]:
-[mojo]:
--->
