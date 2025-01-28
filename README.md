@@ -12,6 +12,7 @@
 </div>
 <br>
 
+- 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a> 💭
 - 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> 🏗
 - 👨‍💻&nbsp;Creating a Computer Science course, based on <a href="https://www.youtube.com/@cs50"  target=”_blank”>Harvard's CS50 lectures</a> 🖥
 - 🌱&nbsp;Studying Machine Learning 🤯
