@@ -7,14 +7,14 @@
 
 [Badge Medium]: https://img.shields.io/badge/Medium-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
 [Medium]: https://medium.com/@ilya0x
+<br>
 [Badge LinkedIn]: https://img.shields.io/badge/LinkedIn-Ilya_Podobedov-FFFFFF?color=FFFFFF&logo=LinkedIn&logoColor=FFFFFF&labelColor=0077B5
 [LinkedIn]: https://www.linkedin.com/in/ilya0x
 </div>
 <br>
 
 - 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a> 💭
-- 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> 🏗
-- 🌱&nbsp;Studying Machine Learning 🤯
+- 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a> 🏗
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/" target=”_blank”>Solidity</a> <img
   src="images/ethereum-15.png">
