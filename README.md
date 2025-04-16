@@ -3,9 +3,7 @@
 <div align = center>
 
 [![Badge Medium]][Medium]
-
 <br>
-
 [![Badge LinkedIn]][LinkedIn]
 
 [Badge Medium]: https://img.shields.io/badge/Medium-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
@@ -16,7 +14,9 @@
 <br>
 
 - 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a> 💭
+<br>
 - 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a> 🏗
+<br>
 - 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
   href="https://soliditylang.org/" target=”_blank”>Solidity</a> <img
   src="images/ethereum-15.png">
