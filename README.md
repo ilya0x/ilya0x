@@ -24,9 +24,6 @@
 <br>
 
 ## Languages and Tools
-
-[![VS Code](images/vscode-30.png "Visual Studio
-Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 [![HTML5](images/html5-full-30.png "HTML")](https://html5.org/) &nbsp;&nbsp;
 [![CSS3](images/css3-full-30.png
 "CSS")](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;&nbsp;
@@ -35,5 +32,4 @@ Code")](https://code.visualstudio.com/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Jinja](images/jinja-full-30.png
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
-"Markdown")](https://www.markdownguide.org/) &nbsp;&nbsp;
-[![GitHub](images/github-30.png "GitHub")](https://github.com/)
+"Markdown")](https://www.markdownguide.org/)
