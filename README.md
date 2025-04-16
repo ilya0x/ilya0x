@@ -23,7 +23,7 @@
   href="https://soliditylang.org/" target=”_blank”>Solidity</a>
 <br>
 
-## Languages and Tools
+## Languages
 [![HTML5](images/html5-full-30.png "HTML")](https://html5.org/) &nbsp;&nbsp;
 [![CSS3](images/css3-full-30.png
 "CSS")](https://www.w3.org/Style/CSS/Overview.en.html) &nbsp;&nbsp;
