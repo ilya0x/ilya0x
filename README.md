@@ -19,10 +19,6 @@
 - 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
 <br>
 
-- 💡&nbsp;&nbsp;Web3 enthusiast. Still need to learn <a
-  href="https://soliditylang.org/" target=”_blank”>Solidity</a>
-<br>
-
 ## Languages
 [![HTML5](images/html5-full-30.png "HTML")](https://html5.org/) &nbsp;&nbsp;
 [![CSS3](images/css3-full-30.png
