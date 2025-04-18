@@ -14,7 +14,6 @@
 <br>
 
 - 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a>
-<br>
 
 - 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
 <br>
