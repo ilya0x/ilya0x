@@ -15,7 +15,11 @@
 
 - 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a>
 
-- 🕊&nbsp;Working on <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
+- 👨‍💼&nbsp;Co-Founder of <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
+
+- 🕊&nbsp;Webmaster of <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a> and <a href="https://sunsetrotarydavis.org" target=”_blank”>Davis Sunset Rotary Club</a>
+
+- 🕊&nbsp;Working on <a href="https://hueis.garden" target=”_blank”>Huei's Garden</a> website
 <br>
 
 ## Languages
@@ -28,3 +32,4 @@
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/)
+
