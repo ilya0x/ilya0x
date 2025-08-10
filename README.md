@@ -2,8 +2,6 @@
 
 <div align = center>
 
-[![Badge Medium]][Medium]
-<br>
 [![Badge LinkedIn]][LinkedIn]
 
 [Badge Medium]: https://img.shields.io/badge/Medium-ilya0x-FFFFFF?color=FFFFFF&logo=dev&logoColor=FFFFFF&labelColor=000000
@@ -32,4 +30,5 @@
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/)
+
 
