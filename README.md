@@ -13,9 +13,9 @@
 
 - 👨‍💼&nbsp;Founder of <a href="https://idealoomllc.com" target=”_blank”>IdeaLoomLLC.com</a>
 
-- 👨‍💼&nbsp;Co-Founder of <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
+- 🕊️&nbsp;Co-Founder of <a href="https://yoloforukraine.org" target=”_blank”>YoloForUkraine.org</a>
 
-- 🕊&nbsp;Webmaster of:
+- 👨‍💻&nbsp;Webmaster of:
   - <a href="https://sunsetrotarydavis.org" target=”_blank”>Davis Sunset Rotary Club</a>
   - <a href="https://davisforukraine.org" target=”_blank”>DavisForUkraine.org</a>
   - <a href="https://hueis.garden" target=”_blank”>Huei's Garden</a>
@@ -31,6 +31,7 @@
 "Jinja")](https://jinja.palletsprojects.com/en/3.1.x/) &nbsp;&nbsp;
 &nbsp;&nbsp; [![Markdown](images/markdown-full-30.png
 "Markdown")](https://www.markdownguide.org/)
+
 
 
 
